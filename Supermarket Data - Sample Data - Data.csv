@@ -1,0 +1,1465 @@
+supermarket,no_of_items,variation,total,paid,change,type,food,snack,beverage,consumables,high_end,asset,fixed_asset,date,mall,time,time_type,type_market,location,loc_category,day,day_type,24hr,day,month,year
+acacia,1,1,90,100,10,cash,yes,no,no,no,no,no,no,20/05/2017,no,19:33,night,small,saika,mid,saturday,weekend,no,20,5,2017
+acacia,1,1,90,500,410,cash,yes,no,no,no,no,no,no,20/05/2017,no,19:12,night,small,saika,mid,saturday,weekend,no,20,5,2017
+acacia,3,1,270,300,30,cash,yes,no,no,no,no,no,no,20/05/2017,no,19:16,night,small,saika,mid,saturday,weekend,no,20,5,2017
+acacia,3,1,137,200,63,cash,yes,no,no,no,no,no,no,20/05/2017,no,19:12,night,small,saika,mid,saturday,weekend,no,20,5,2017
+acacia,1,1,75,80,5,cash,yes,no,no,no,no,no,no,20/05/2017,no,18:31,afternoon,small,saika,mid,saturday,weekend,no,20,5,2017
+nakumatt,22,3,5611,5611,0,card,yes,no,no,yes,yes,no,no,24/12/2016,no,16:26,afternoon,chain,cbd,mid,wednesday,weekday,yes,24,12,2016
+acacia,1,1,55,100,45,cash,yes,no,no,no,no,no,no,20/05/2017,no,18:23,afternoon,small,saika,mid,saturday,weekend,no,20,5,2017
+chandarana,32,3,7955,7955,0,mpesa,yes,no,no,yes,yes,no,no,03/01/2017,yes,19:03,night,median,yaya,high,tuesday,weekday,no,3,1,2017
+nakumatt,1,1,780,1000,220,cash,no,no,no,yes,no,no,no,27/03/2017,yes,19:34,night,chain,kilimani,high,monday,weekday,no,27,3,2017
+acacia,1,1,235,500,265,cash,no,no,no,yes,no,no,no,15/05/2017,no,14:06,afternoon,small,saika,mid,monday,weekday,no,15,5,2017
+tuskys,33,6,13005,13001,0,card,yes,no,no,yes,yes,yes,no,07/12/2016,yes,8:56,morning,chain,donholm,mid,wednesday,weekday,no,7,12,2016
+nakumatt,2,1,431,500,68,cash,yes,no,yes,no,yes,no,no,23/07/2016,yes,11:17,morning,chain,likoni,mid,saturday,weekend,no,23,7,2016
+nakumatt,3,1,1000,1000,0,cash,no,no,no,yes,no,no,no,20/08/2016,no,9:07,morning,chain,cbd,mid,saturday,weekend,yes,20,8,2016
+uchumi,5,2,242,500,258,cash,no,no,no,no,no,yes,no,20/10/2016,no,17:41,afternoon,chain,makadara,mid,thursday,weekday,no,20,10,2016
+nakumatt,1,1,2420,2460,0,card,no,no,no,no,yes,no,no,11/11/2016,yes,8:16,morning,chain,kilimani,high,friday,weekday,no,11,11,2016
+nakumatt,12,2,4926,4926,0,card,yes,no,no,no,yes,no,no,11/11/2016,yes,8:44,morning,chain,kilimani,high,friday,weekday,no,11,11,2016
+nakumatt,4,2,5439,5439,0,mpesa,yes,no,no,no,no,no,no,28/11/2016,yes,6:49,morning,chain,kilimani,high,monday,weekday,no,28,11,2016
+nakumatt,5,1,8110,8110,0,mpesa,no,no,no,no,yes,no,no,13/01/2017,yes,17:40,afternoon,chain,kilimani,high,friday,weekday,no,13,1,2017
+nakumatt,3,1,221,300,79,cash,yes,no,no,no,no,no,no,11/01/2017,yes,14:31,afternoon,chain,kilimani,high,wednesday,weekday,no,11,1,2017
+nakumatt,2,1,584,1000,496,cash,yes,no,no,no,no,no,no,03/01/2017,yes,9:00,morning,chain,kilimani,high,tuesday,weekday,no,3,1,2017
+nakumatt,5,1,850,850,0,card,no,no,yes,no,no,no,no,29/11/2016,yes,5:51,night,chain,kilimani,high,thursday,weekday,no,29,11,2016
+acacia,1,1,90,500,410,cash,yes,no,no,no,no,no,no,22/05/2017,no,14:10,afternoon,small,saika,mid,monday,weekday,no,22,5,2017
+acacia,1,1,175,205,30,cash,yes,no,no,no,no,no,no,21/05/2017,no,8:56,morning,small,saika,mid,sunday,weekday,no,21,5,2017
+acacia,1,1,170,200,30,cash,no,no,yes,no,no,no,no,22/05/2017,no,13:21,afternoon,small,saika,mid,monday,weekday,no,22,5,2017
+acacia,1,1,55,60,5,cash,no,no,yes,no,no,no,no,22/05/2017,no,13:47,afternoon,small,saika,mid,monday,weekday,no,22,5,2017
+tuskys,4,1,680,1670,970,cash,no,no,no,yes,no,no,no,22/05/2017,yes,13:32,afternoon,chain,donholm,mid,monday,weekday,no,22,5,2017
+tuskys,9,3,1245,1500,255,cash,yes,no,no,yes,no,yes,no,22/05/2017,yes,10:51,morning,chain,donholm,mid,monday,weekday,no,22,5,2017
+naivas,1,1,800,1000,200,cash,no,no,yes,no,yes,no,no,20/05/2017,no,19:37,night,chain,umoja,mid,saturday,weekend,no,20,5,2017
+naivas,1,1,95,100,5,cash,no,no,yes,no,no,no,no,19/05/2017,no,20:10,night,chain,umoja,mid,friday,weekday,no,19,5,2017
+naivas,6,2,736,1000,263,cash,yes,no,yes,yes,no,no,no,21/05/2017,no,12:07,afternoon,chain,umoja,mid,sunday,weekend,no,21,5,2017
+naivas,1,1,58,70,12,cash,no,no,yes,no,no,no,no,19/05/2017,no,15:16,afternoon,chain,umoja,mid,friday,weekday,no,19,5,2017
+naivas,10,4,2903,2903,0,mpesa,yes,no,yes,yes,yes,yes,no,21/05/2017,no,14:21,afternoon,chain,umoja,mid,sunday,weekend,no,21,5,2017
+naivas,7,2,961,1000,38,cash,yes,yes,yes,no,no,no,no,12/05/2017,no,15:46,afternoon,chain,umoja,mid,friday,weekday,no,12,5,2017
+naivas,9,2,907,1000,93,cash,yes,yes,yes,yes,yes,no,no,17/05/2017,no,20:27,night,chain,umoja,mid,wednesday,weekday,no,17,5,2017
+naivas,2,1,202,205,3,cash,yes,no,no,no,no,no,no,22/05/2017,no,14:36,afternoon,chain,umoja,mid,monday,weekday,no,22,5,2017
+naivas,3,1,35,50,15,cash,no,yes,no,no,no,no,no,14/05/2017,no,18:12,afternoon,chain,umoja,mid,sunday,weekend,no,14,5,2017
+naivas,1,1,45,1000,955,cash,no,no,yes,no,no,no,no,22/05/2017,no,12:23,afternoon,chain,umoja,mid,monday,weekday,no,22,5,2017
+naivas,1,1,360,1000,640,cash,yes,no,no,no,no,no,no,22/05/2017,no,14:00,afternoon,chain,umoja,mid,monday,weekday,no,22,5,2017
+naivas,4,2,321,325,4,cash,yes,no,yes,no,no,no,no,21/05/2017,no,19:54,night,chain,umoja,mid,sunday,weekend,no,21,5,2017
+naivas,2,1,253,1000,747,cash,yes,no,no,no,no,no,no,19/05/2017,no,15:50,afternoon,chain,umoja,mid,friday,weekday,no,19,5,2017
+naivas,3,2,345,400,55,cash,yes,yes,yes,no,no,no,no,19/05/2017,no,19:42,night,chain,umoja,mid,friday,weekday,no,19,5,2017
+naivas,1,1,60,1000,940,cash,no,no,no,yes,no,no,no,21/05/2017,no,17:54,afternoon,chain,umoja,mid,sunday,weekend,no,21,5,2017
+acacia,1,1,35,35,0,cash,no,no,no,yes,no,no,no,22/05/2017,no,14:01,afternoon,small,saika,mid,monday,weekday,no,22,5,2017
+naivas,2,2,164,200,36,cash,no,yes,yes,no,no,no,no,21/05/2017,no,16:53,afternoon,chain,umoja,mid,sunday,weekend,no,21,5,2017
+naivas,4,2,367,1000,633,cash,yes,no,yes,no,no,no,no,22/05/2017,no,14:26,afternoon,chain,umoja,mid,monday,weekday,no,22,5,2017
+naivas,2,1,330,500,170,cash,yes,no,no,no,no,no,no,21/05/2017,no,18:15,afternoon,chain,umoja,mid,sunday,weekend,no,21,5,2017
+acacia,1,1,5,5,0,cash,no,yes,no,no,no,no,no,21/05/2017,no,15:51,afternoon,small,saika,mid,sunday,weekend,no,21,5,2017
+naivas,2,2,239,500,261,cash,yes,no,yes,no,no,no,no,17/05/2017,no,18:14,afternoon,chain,umoja,mid,wednesday,weekday,no,17,5,2017
+tuskys,3,1,638,650,14,cash,no,no,no,yes,no,no,no,21/05/2017,yes,16:01,afternoon,chain,donholm,mid,sunday,weekend,no,21,5,2017
+tuskys,3,1,720,1000,280,cash,no,no,no,no,yes,yes,no,19/05/2017,yes,12:06,afternoon,chain,donholm,mid,friday,weekday,no,19,5,2017
+tuskys,3,2,357,400,43,cash,yes,yes,no,no,no,no,no,21/05/2017,yes,10:07,morning,chain,donholm,mid,sunday,weekend,no,21,5,2017
+tuskys,3,2,412,500,88,cash,yes,no,no,yes,no,no,no,20/05/2017,yes,12:56,afternoon,chain,donholm,mid,saturday,weekend,no,20,5,2017
+tuskys,1,1,350,350,0,cash,no,no,no,yes,yes,no,no,08/05/2017,yes,15:49,afternoon,chain,donholm,mid,monday,weekday,no,8,5,2017
+tuskys,4,1,199,200,1,cash,no,no,no,no,no,yes,no,21/05/2017,yes,18:50,afternoon,chain,donholm,mid,sunday,weekend,no,21,5,2017
+tuskys,1,1,46,50,4,cash,yes,no,no,no,no,no,no,16/05/2017,yes,12:48,afternoon,chain,donholm,mid,tuesday,weekday,no,16,5,2017
+tuskys,7,4,542,1000,458,cash,yes,yes,yes,no,no,yes,no,21/05/2017,yes,20:41,night,chain,donholm,mid,sunday,weekend,no,21,5,2017
+tuskys,2,1,110,110,0,cash,yes,no,no,no,no,yes,no,14/05/2017,yes,8:53,morning,chain,donholm,mid,sunday,weekend,no,14,5,2017
+kamindi,1,1,45,100,55,cash,no,no,no,yes,no,no,no,17/05/2017,no,14:37,afternoon,small,donholm,mid,wednesday,weekday,no,17,5,2017
+tuskys,2,2,260,270,10,cash,no,no,yes,no,no,yes,no,21/05/2017,yes,17:50,afternoon,chain,donholm,mid,sunday,weekend,no,21,5,2017
+kamindi,1,1,120,500,380,cash,no,no,no,no,no,yes,no,19/05/2017,no,16:09,afternoon,small,donholm,mid,friday,weekday,no,19,5,2017
+kamindi,1,1,1900,2000,100,cash,no,no,no,yes,yes,no,no,19/05/2017,no,16:09,afternoon,small,donholm,mid,friday,weekday,no,19,5,2017
+tuskys,2,1,223,1000,777,cash,yes,no,no,no,no,no,no,13/05/2017,yes,19:50,night,chain,donholm,mid,saturday,weekend,no,13,5,2017
+tuskys,5,3,220,300,80,cash,yes,yes,yes,no,no,no,no,18/05/2017,yes,10:58,morning,chain,donholm,mid,thursday,weekday,no,18,5,2017
+tuskys,2,1,351,400,49,cash,no,no,no,yes,no,no,no,16/05/2017,yes,11:36,morning,chain,donholm,mid,tuesday,weekday,no,16,5,2017
+tuskys,8,1,416,500,84,cash,yes,no,no,no,no,no,no,20/05/2017,yes,20:28,night,chain,donholm,mid,saturday,weekend,no,20,5,2017
+tuskys,2,1,119,200,81,cash,yes,no,no,no,no,no,no,20/05/2017,yes,16:26,afternoon,chain,donholm,mid,saturday,weekend,no,20,5,2017
+tuskys,1,1,95,95,0,cash,yes,no,no,no,no,no,no,16/05/2017,yes,18:31,afternoon,chain,donholm,mid,tuesday,weekday,no,16,5,2017
+acacia,3,2,580,1000,420,cash,yes,no,no,yes,no,no,no,22/05/2017,no,15:07,afternoon,small,saika,mid,monday,weekday,no,22,5,2017
+nakumatt,14,3,2183,2183,0,card,yes,yes,no,no,yes,no,no,15/01/2017,no,18:16,afternoon,chain,cbd,mid,sunday,weekend,yes,15,1,2017
+nakumatt,1,1,60,200,140,cash,no,no,no,yes,no,no,no,24/01/2017,yes,10:50,morning,chain,kilimani,high,tuesday,weekday,no,24,1,2017
+nakumatt,2,1,360,500,140,cash,no,yes,no,no,yes,no,no,19/01/2017,no,22:41,night,chain,cbd,mid,thursday,weekday,yes,19,1,2017
+nakumatt,13,2,2657,3000,343,cash,yes,yes,no,no,no,no,no,19/01/2017,yes,20:53,night,chain,kilimani,high,thursday,weekday,no,19,1,2017
+nakumatt,2,1,136,200,64,cash,yes,no,no,no,no,no,no,26/05/2017,yes,13:35,night,chain,kilimani,high,friday,weekday,no,26,5,2017
+nakumatt,2,2,1724,2000,276,cash,yes,yes,no,no,no,no,no,23/05/2017,yes,12:26,afternoon,chain,kilimani,high,tuesday,weekday,no,23,5,2017
+tuskys,1,1,29,29,0,cash,no,yes,no,no,no,no,no,25/05/2017,no,19:35,night,chain,cbd,mid,thursday,weekday,no,25,5,2017
+karrymart,5,2,200,200,0,cash,yes,yes,no,no,no,no,no,23/05/2017,no,6:09,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,55,100,45,cash,yes,no,no,no,no,no,no,23/05/2017,no,7:08,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,3,3,340,500,160,cash,yes,yes,yes,no,no,no,no,23/05/2017,no,20:28,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,71,75,4,cash,yes,no,no,no,no,no,no,23/05/2017,no,7:38,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,35,100,65,cash,no,yes,no,no,no,no,no,23/05/2017,no,12:24,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,70,500,430,cash,yes,no,no,no,no,no,no,23/05/2017,no,6:42,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,1,70,100,30,cash,no,yes,no,no,no,no,no,23/05/2017,no,14:28,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,50,100,50,cash,yes,no,no,no,no,no,no,23/05/2017,no,5:54,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,2,120,200,80,cash,yes,no,yes,no,no,no,no,23/05/2017,no,14:32,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,102,105,3,cash,yes,no,no,no,no,no,no,23/05/2017,no,6:25,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,5:41,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,1,155,200,45,cash,yes,no,no,no,no,no,no,23/05/2017,no,5:40,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,2,100,200,100,cash,yes,yes,no,no,no,no,no,23/05/2017,no,6:13,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,25,100,75,cash,no,no,yes,no,no,no,no,23/05/2017,no,6:38,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,1,100,200,100,cash,no,yes,no,no,no,no,no,23/05/2017,no,18:44,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,5:57,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,1,88,100,12,cash,no,yes,no,no,no,no,no,23/05/2017,no,7:34,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,6:58,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,3,3,245,1000,755,cash,yes,yes,yes,no,no,no,no,23/05/2017,no,18:46,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,50,50,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:14,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,80,100,20,cash,no,yes,no,no,no,no,no,23/05/2017,no,21:01,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,40,50,10,cash,no,yes,no,no,no,no,no,23/05/2017,no,12:22,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,40,40,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,6:48,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,3,2,125,125,0,cash,no,yes,yes,no,no,no,no,23/05/2017,no,19:50,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,2,180,200,20,cash,yes,yes,no,no,no,no,no,23/05/2017,no,20:44,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,85,100,15,cash,no,yes,no,no,no,no,no,23/05/2017,no,10:08,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+nakumatt,6,3,3585,3585,0,mpesa,no,yes,yes,no,no,yes,yes,10/03/2017,no,16:30,afternoon,chain,eldoret,mid,friday,weekday,no,10,3,2017
+karrymart,1,1,50,200,150,cash,no,no,yes,no,no,no,no,23/05/2017,no,14:34,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,2,475,500,25,cash,yes,no,yes,no,no,no,no,23/05/2017,no,10:21,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,70,100,30,cash,no,yes,no,no,no,no,no,23/05/2017,no,11:11,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,8:24,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,12:42,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,150,150,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,13:21,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,1,60,100,40,cash,yes,no,no,no,no,no,no,23/05/2017,no,14:26,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,1,100,100,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,19:24,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,35,100,65,cash,no,yes,no,no,no,no,no,23/05/2017,no,11:41,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,25,100,75,cash,no,no,no,yes,no,no,no,23/05/2017,no,9:36,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,5,3,350,500,150,cash,yes,yes,yes,no,no,no,no,23/05/2017,no,9:25,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+nakumatt,1,1,196,100,804,cash,no,yes,no,no,no,no,no,26/05/2017,yes,15:52,afternoon,chain,kilimani,high,friday,weekday,no,26,5,2017
+karrymart,2,1,100,100,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,10:21,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,1,120,120,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,11:36,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,77,500,423,cash,no,yes,no,no,no,no,no,23/05/2017,no,8:07,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,2,100,200,100,cash,no,yes,yes,no,no,no,no,23/05/2017,no,16:35,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,20,20,0,cash,no,no,no,yes,no,no,no,23/05/2017,no,5:42,morning,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+ukwala,1,1,425,450,25,cash,no,no,no,no,yes,yes,no,31/05/2017,no,09:35,morning,chain,cbd,mid,wednesday,weekday,no,31,5,2017
+nakumatt,1,1,530,600,70,cash,no,yes,no,no,yes,no,no,26/05/2017,yes,11:02,morning,chain,kilimani,high,friday,weekday,no,26,5,2017
+nakumatt,5,3,385,385,0,cash,yes,yes,no,yes,no,no,no,01/06/2017,yes,17:36,afternoon,chain,kilimani,high,thursday,weekday,no,1,6,2017
+nakumatt,2,2,188,1000,812,cash,yes,no,no,yes,no,no,no,21/05/2017,yes,14:25,afternoon,chain,kilimani,high,sunday,weekend,no,21,5,2017
+nakumatt,1,1,190,200,10,cash,yes,no,no,no,no,no,no,01/06/2017,yes,17:11,afternoon,chain,kilimani,high,thursday,weekday,no,1,6,2017
+ukwala,1,1,86,200,114,cash,yes,no,no,no,no,no,no,30/05/2017,no,15:22,afternoon,median,cbd,mid,tuesday,weekday,no,30,5,2017
+nakumatt,3,2,142,150,8,cash,no,yes,yes,no,no,no,no,01/06/2017,yes,16:59,afternoon,chain,kilimani,high,thursday,weekday,no,1,6,2017
+ukwala,1,1,77,100,23,cash,no,no,yes,no,no,no,no,01/06/2017,no,14:41,afternoon,median,cbd,mid,thursday,weekday,no,1,6,2017
+ukwala,1,1,35,112,77,cash,no,no,no,no,no,yes,no,01/06/2017,no,14:17,afternoon,median,cbd,mid,thursday,weekday,no,1,6,2017
+neema,2,1,390,1000,610,cash,no,no,no,yes,no,no,no,01/06/2017,no,14:25,afternoon,small,cbd,mid,thursday,weekday,no,1,6,2017
+nakumatt,1,1,99,1000,901,cash,no,no,yes,no,no,no,no,02/06/2017,no,13:31,afternoon,chain,cbd,mid,friday,weekday,yes,2,6,2017
+uchumi,1,1,100,200,100,cash,yes,no,no,no,no,no,no,02/06/2017,no,09:19,morning,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,2,2,140,140,0,mpesa,yes,no,yes,no,no,no,no,02/06/2017,no,18:22,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+uchumi,2,1,98,200,102,cash,yes,no,no,no,no,no,no,02/06/2017,no,15:11,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+ukwala,1,1,80,100,20,cash,no,no,no,yes,no,no,no,01/06/2017,no,19:31,night,median,cbd,mid,thursday,weekday,no,1,6,2017
+tuskys,1,1,470,500,30,cash,no,no,no,yes,yes,no,no,02/06/2017,no,18:59,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,3,3,103,1000,897,cash,yes,yes,yes,no,no,no,no,02/06/2017,no,13:55,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,2,1,150,500,350,cash,no,yes,no,no,no,no,no,02/06/2017,no,18:36,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+karrymart,1,1,5,20,15,cash,no,no,no,no,no,yes,no,02/06/2017,no,17:25,afternoon,small,cbd,mid,friday,weekday,yes,2,6,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,02/06/2017,no,18:21,afternoon,small,cbd,mid,friday,weekday,yes,2,6,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,02/06/2017,no,17:26,afternoon,small,cbd,mid,friday,weekday,yes,2,6,2017
+tuskys,1,1,95,1000,905,cash,no,no,no,yes,yes,no,no,01/06/2017,no,17:27,afternoon,chain,cbd,mid,thursday,weekday,no,1,6,2017
+tuskys,8,3,600,600,0,cash,yes,yes,yes,no,no,no,no,02/06/2017,no,10:23,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,2,2,95,100,5,cash,no,yes,yes,no,no,no,no,02/06/2017,no,10:29,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+nakumatt,1,1,75,200,125,cash,no,no,yes,no,no,no,no,02/06/2017,no,17:31,afternoon,chain,cbd,mid,friday,weekday,yes,2,6,2017
+nakumatt,2,2,212,212,0,card,yes,yes,no,no,no,no,no,02/06/2017,no,15:02,afternoon,chain,cbd,mid,friday,weekday,yes,2,6,2017
+tuskys,2,1,180,500,320,cash,yes,no,no,no,no,no,no,17/05/2017,no,11:52,morning,chain,cbd,mid,saturday,weekend,no,17,5,2017
+tuskys,1,1,42,200,158,cash,no,no,yes,no,no,no,no,31/05/2017,no,20:43,night,chain,cbd,mid,wednesday,weekday,no,31,5,2017
+tuskys,2,2,203,500,297,cash,yes,no,no,no,no,yes,no,02/06/2017,no,10:02,morning,chain,cbd,mid,friday,weekday,no,2,6,2017
+nakumatt,2,1,120,200,80,cash,no,no,yes,no,no,no,no,02/06/2017,no,16:13,afternoon,chain,cbd,mid,friday,weekday,yes,2,6,2017
+nakumatt,2,2,172,200,28,cash,yes,yes,no,no,no,no,no,02/06/2017,no,18:43,afternoon,chain,cbd,mid,friday,weekday,yes,2,6,2017
+tuskys,2,1,98,100,2,cash,no,no,no,no,no,no,yes,02/06/2017,no,18:22,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+nakumatt,4,3,342,500,158,cash,yes,no,no,yes,yes,no,no,02/06/2017,no,18:30,afternoon,chain,cbd,mid,friday,weekday,yes,2,6,2017
+tuskys,4,3,300,300,0,cash,no,yes,yes,yes,no,no,no,02/06/2017,no,11:08,morning,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,1,1,60,100,40,cash,no,no,no,no,no,yes,no,02/06/2017,no,16:39,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+nakumatt,1,1,65,500,435,cash,no,no,yes,no,no,no,no,02/06/2017,no,17:38,afternoon,chain,cbd,mid,friday,weekday,yes,2,6,2017
+nakumatt,1,1,70,100,30,cash,no,no,yes,no,no,no,no,31/05/2017,no,21:47,night,chain,cbd,mid,wednesday,weekday,yes,31,5,2017
+eastmatt,10,1,480,100,520,cash,yes,no,no,no,no,no,no,02/06/2017,no,13:52,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+uchumi,1,1,100,1000,900,cash,no,no,yes,no,no,no,no,02/06/2017,no,15:01,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,3,1,270,300,30,cash,yes,no,no,no,no,no,no,02/06/2017,no,14:12,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,3,2,430,1000,570,cash,yes,yes,no,no,yes,no,no,02/06/2017,no,14:40,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,2,1,48,50,2,cash,no,no,yes,no,no,no,no,02/06/2017,no,14:23,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+uchumi,1,1,25,25,0,cash,yes,no,no,no,no,no,no,02/06/2017,no,07:35,morning,chain,cbd,mid,friday,weekday,no,2,6,2017
+karrymart,1,1,95,100,5,cash,no,no,yes,no,no,no,no,02/06/2017,no,14:34,afternoon,small,cbd,mid,friday,weekday,yes,2,6,2017
+karrymart,1,1,60,1000,940,cash,no,yes,no,no,no,no,no,02/06/2017,no,08:59,morning,small,cbd,mid,friday,weekday,yes,2,6,2017
+karrymart,1,1,35,100,65,cash,no,no,no,no,no,yes,no,01/06/2017,no,13:33,afternoon,small,cbd,mid,thursday,weekday,yes,1,6,2017
+eastmatt,2,2,186,1000,814,cash,yes,yes,no,no,no,no,no,02/06/2017,no,09:14,morning,median,cbd,mid,friday,weekday,no,2,6,2017
+ukwala,4,2,390,100,610,cash,no,no,yes,yes,yes,no,no,02/06/2017,no,14:13,afternoon,median,cbd,mid,friday,weekday,no,2,6,2017
+eastmatt,2,1,147,200,53,cash,yes,no,no,no,no,no,no,02/06/2017,no,12:56,afternoon,median,cbd,mid,friday,weekday,no,2,6,2017
+ukwala,1,1,60,100,40,cash,no,no,yes,no,no,no,no,02/06/2017,no,14:02,afternoon,median,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,6,2,380,500,120,cash,no,yes,yes,no,yes,no,no,02/06/2017,no,14:18,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,2,2,44,50,6,cash,no,yes,yes,no,no,no,no,02/06/2017,no,14:50,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,3,1,165,200,35,cash,no,no,yes,no,no,no,no,02/06/2017,no,14:44,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,5,2,927,1000,73,cash,yes,yes,no,no,no,no,no,02/06/2017,no,08:48,morning,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,2,2,149,206,57,cash,yes,no,yes,no,no,no,no,02/06/2017,no,15:49,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+eastmatt,10,3,1273,1300,27,cash,yes,yes,no,yes,no,no,no,02/06/2017,no,13:06,afternoon,median,cbd,mid,friday,weekday,no,2,6,2017
+ukwala,1,1,30,50,20,cash,no,no,no,no,no,yes,no,02/06/2017,no,14:37,afternoon,median,cbd,mid,friday,weekday,no,2,6,2017
+ukwala,2,2,177,200,23,cash,no,yes,yes,no,no,no,no,02/06/2017,no,12:52,afternoon,median,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,5,2,835,1000,165,cash,no,no,no,yes,no,yes,no,02/06/2017,no,14:27,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+eastmatt,1,1,52,100,48,cash,yes,no,no,no,no,no,no,02/06/2017,no,11:32,morning,median,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,2,1,115,200,85,cash,no,no,yes,no,no,no,no,02/06/2017,no,12:36,morning,chain,cbd,mid,friday,weekday,no,2,6,2017
+eastmatt,1,1,10,10,0,cash,no,no,no,no,no,yes,no,02/06/2017,no,14:17,afternoon,median,cbd,mid,friday,weekday,no,2,6,2017
+eastmatt,4,3,320,100,680,cash,yes,yes,yes,no,no,no,no,02/06/2017,no,13:55,afternoon,median,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,1,1,20,20,0,cash,no,no,yes,no,no,no,no,02/06/2017,no,14:25,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+tuskys,2,2,115,200,85,cash,no,yes,yes,no,no,no,no,02/06/2017,no,12:37,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017
+eastmatt,1,1,47,100,53,cash,no,no,yes,no,no,no,no,02/06/2017,no,14:05,afternoon,median,cbd,mid,friday,weekday,no,2,6,2017
+uchumi,6,2,323,350,27,cash,no,yes,yes,no,no,no,no,16/04/2017,no,15:17,afternoon,chain,cbd,mid,sunday,weekend,no,16,4,2017
+uchumi,2,2,78,100,22,cash,yes,no,no,no,no,no,no,29/05/2017,no,20:23,night,chain,cbd,mid,monday,weekday,no,29,5,2017
+kassmart,5,2,161,1000,839,cash,no,yes,yes,no,no,no,no,01/06/2017,no,13:10,afternoon,small,mwiki,low,thursday,weekday,no,1,6,2017
+eastmatt,1,1,130,150,20,cash,yes,no,no,no,no,no,no,02/06/2017,no,13:26,afternoon,median,cbd,mid,friday,weekday,no,2,6,2017
+nakumatt,1,1,875,100,125,cash,no,no,yes,no,yes,no,no,01/06/2107,yes,19:52,night,chain,cbd,mid,thursday,weekday,yes,1,6,2107
+eastmatt,2,1,84,1000,916,cash,no,no,yes,no,no,no,no,02/06/2017,no,10:12,morning,median,cbd,mid,friday,weekday,no,2,6,2017
+nakumatt,2,2,174,180,6,cash,no,yes,yes,no,no,no,no,02/06/2017,no,15:24,afternoon,chain,cbd,mid,friday,weekday,yes,2,6,2017
+karrymart,3,2,235,240,5,cash,yes,no,no,yes,no,no,no,23/05/2017,no,21:03,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,4,2,435,500,65,cash,yes,no,no,yes,no,no,no,23/05/2017,no,20:26,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+nakumatt,10,3,3440,3440,0,mpesa,yes,no,yes,no,no,yes,no,05/06/2017,no,21:22,night,chain,cbd,mid,monday,weekday,yes,5,6,2017
+tuskys,7,3,780,780,0,mpesa,yes,no,no,yes,no,yes,no,05/06/2017,no,21:32,night,chain,cbd,mid,monday,weekday,no,5,6,2017
+tuskys,2,1,1141,1141,0,mpesa,yes,no,no,no,no,no,no,05/06/2017,no,21:41,night,chain,cbd,mid,monday,weekday,no,5,6,2017
+nakumatt,1,1,55,60,5,cash,no,no,yes,no,no,no,no,05/06/2017,no,17:23,afternoon,chain,cbd,mid,monday,weekday,yes,5,6,2017
+nakumatt,1,1,33,40,7,cash,yes,no,no,no,no,no,no,05/06/2017,no,16:57,afternoon,chain,cbd,mid,monday,weekday,yes,5,6,2017
+ukwala,1,1,86,100,14,cash,yes,no,no,no,no,no,no,05/06/2017,no,20:31,night,median,cbd,mid,monday,weekday,no,5,6,2017
+nakumatt,2,1,199,199,0,card,yes,no,no,no,no,no,no,05/06/2017,no,17:14,afternoon,chain,cbd,mid,monday,weekday,yes,5,6,2017
+nakumatt,1,1,55,100,45,cash,no,no,yes,no,no,no,no,02/06/2017,no,16:58,afternoon,chain,cbd,mid,friday,weekday,yes,2,6,2017
+nakumatt,1,1,71,100,29,cash,yes,no,no,no,no,no,no,05/06/2017,no,20:24,night,chain,cbd,mid,monday,weekday,yes,5,6,2017
+ukwala,1,1,140,140,0,cash,no,no,yes,no,no,no,no,05/06/2017,no,16:27,afternoon,median,cbd,mid,monday,weekday,no,5,6,2017
+nakumatt,2,1,125,500,375,cash,no,yes,no,no,no,no,no,05/06/2017,no,16:50,afternoon,chain,cbd,mid,monday,weekday,yes,5,6,2017
+nakumatt,1,1,220,300,80,cash,no,no,no,no,no,yes,no,05/06/2017,no,20:32,night,chain,cbd,mid,monday,weekday,yes,5,6,2017
+tuskys,1,1,109,100,891,cash,yes,no,no,no,no,no,no,05/06/2017,no,20:16,night,chain,cbd,mid,monday,weekday,no,5,6,2017
+tuskys,5,2,526,526,0,mpesa,no,yes,yes,no,no,no,no,05/06/2017,no,19:22,night,chain,cbd,mid,monday,weekday,no,5,6,2017
+nakumatt,1,1,56,70,14,cash,yes,no,no,no,no,no,no,05/06/2017,no,19:28,night,chain,cbd,mid,monday,weekday,yes,5,6,2017
+nakumatt,1,1,55,55,0,cash,no,no,yes,no,no,no,no,05/06/2017,no,20:05,night,chain,cbd,mid,monday,weekday,yes,5,6,2017
+eastmatt,3,2,285,300,15,cash,yes,yes,no,no,no,no,no,05/06/2017,no,20:05,night,median,cbd,mid,monday,weekday,no,5,6,2017
+nakumatt,1,1,125,150,25,cash,no,no,no,no,yes,yes,no,01/06/2017,no,22:28,night,chain,nairobi west,mid,thursday,weekday,no,1,6,2017
+fairway,1,1,55,100,45,cash,yes,no,no,no,no,no,no,03/06/2017,no,10:05,morning,small,langata,mid,saturday,weekend,no,3,6,2017
+fairway,5,1,160,200,40,cash,yes,no,no,no,no,no,no,01/06/2017,no,10:11,morning,small,langata,mid,thursday,weekday,no,1,6,2017
+karrymart,2,1,95,100,5,cash,no,yes,no,no,no,no,no,23/05/2017,no,19:31,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,2,2,110,120,10,cash,yes,no,no,no,no,yes,no,23/05/2017,no,17:39,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,50,100,50,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:21,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,130,500,370,cash,no,no,no,yes,no,no,no,23/05/2017,no,19:34,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,3,2,205,205,0,cash,yes,yes,no,no,no,no,no,23/05/2017,no,20:17,night,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+karrymart,1,1,195,1000,805,cash,no,yes,no,no,yes,no,no,23/05/2017,no,18:54,afternoon,small,cbd,mid,tuesday,weekday,yes,23,5,2017
+eastmatt,1,1,90,200,110,cash,yes,no,no,no,no,no,no,06/06/2017,no,11:07,morning,median,cbd,mid,tuesday,weekday,no,6,6,2017
+nakumatt,5,2,750,750,0,card,yes,yes,no,no,yes,no,no,06/06/2017,yes,18:49,afternoon,chain,kilimani,high,tuesday,weekday,no,6,6,2017
+nakumatt,6,3,17350,17350,0,card,no,yes,no,no,yes,yes,yes,06/06/2017,yes,10:45,morning,chain,kilimani,high,tuesday,weekday,no,6,6,2017
+nakumatt,1,1,71,100,29,cash,yes,no,no,no,no,no,no,06/06/2017,yes,19:01,night,chain,kilimani,high,tuesday,weekday,no,6,6,2017
+ukwala,2,2,110,110,0,cash,yes,no,yes,no,no,no,no,06/06/2017,no,11:43,morning,median,cbd,mid,tuesday,weekday,no,6,6,2017
+nakumatt,6,4,840,1000,160,cash,yes,yes,yes,yes,no,no,no,05/06/2017,no,19:43,night,chain,cbd,mid,monday,weekday,yes,5,6,2017
+ukwala,1,1,110,500,390,cash,yes,no,no,no,no,no,no,05/06/2017,no,19:27,night,median,cbd,mid,monday,weekday,no,5,6,2017
+ukwala,1,1,140,1000,860,cash,yes,no,no,no,no,no,no,07/06/2017,no,07:09,morning,median,cbd,mid,wednesday,weekday,no,7,6,2017
+nakumatt,4,2,590,1000,410,cash,yes,yes,no,no,yes,no,no,06/06/2017,yes,19:18,night,chain,kilimani,high,tuesday,weekday,no,6,6,2017
+ukwala,2,1,102,120,8,cash,yes,no,no,no,no,no,no,06/06/2017,no,07:18,morning,median,cbd,mid,tuesday,weekday,no,6,6,2017
+uchumi,3,1,272,300,28,cash,yes,no,no,no,no,no,no,06/06/2017,no,08:43,morning,chain,kilimani,high,tuesday,weekday,no,6,6,2017
+acacia,1,1,95,100,5,cash,no,no,no,yes,no,no,no,06/06/2017,no,20:14,night,small,saika,mid,tuesday,weekday,no,6,6,2017
+acacia,2,1,180,200,20,cash,yes,no,no,no,no,no,no,05/06/2017,no,18:05,afternoon,small,saika,mid,monday,weekday,no,5,6,2017
+ukwala,1,1,77,100,23,cash,no,no,yes,no,no,no,no,06/06/2017,no,17:34,afternoon,median,cbd,mid,tuesday,weekday,no,6,6,2017
+ukwala,1,1,25,25,0,cash,no,no,yes,no,no,no,no,06/06/2017,no,18:53,afternoon,median,cbd,mid,tuesday,weekday,no,6,6,2017
+acacia,1,1,15,50,35,cash,no,no,no,no,no,yes,no,06/06/2017,no,19:35,night,small,saika,mid,tuesday,weekday,no,6,6,2017
+acacia,1,1,240,500,260,cash,no,no,no,yes,yes,no,no,04/06/2017,no,10:13,morning,small,saika,mid,sunday,weekend,no,4,6,2017
+eastmatt,1,1,90,100,10,cash,yes,no,no,no,no,no,no,06/06/2017,no,17:38,afternoon,median,cbd,mid,tuesday,weekday,no,6,6,2017
+nakumatt,1,1,71,71,0,cash,yes,no,no,no,no,no,no,07/06/2017,no,05:26,night,chain,cbd,mid,wednesday,weekday,yes,7,6,2017
+nakumatt,3,3,235,500,265,cash,yes,no,no,yes,no,yes,no,06/06/2017,no,10:23,morning,chain,cbd,mid,tuesday,weekday,yes,6,6,2017
+tuskys,2,1,93,500,407,cash,yes,no,no,no,no,no,no,06/06/2017,no,19:19,night,chain,cbd,mid,tuesday,weekday,no,6,6,2017
+tuskys,1,1,103,150,47,cash,yes,no,no,no,no,no,no,06/06/2017,no,19:20,night,chain,cbd,mid,tuesday,weekday,no,6,6,2017
+uchumi,1,1,48,50,2,cash,no,no,yes,no,no,no,no,06/06/2017,no,18:46,afternoon,chain,cbd,mid,tuesday,weekday,no,6,6,2017
+nakumatt,1,1,230,1000,770,cash,no,no,no,no,no,yes,no,07/06/2017,no,21:00,night,chain,kilimani,high,wednesday,weekday,no,7,6,2017
+tuskys,4,2,320,1000,680,cash,yes,no,yes,no,no,no,no,07/06/2017,no,08:18,morning,chain,cbd,mid,wednesday,weekday,no,7,6,2017
+acacia,4,3,411,411,0,cash,yes,no,yes,yes,no,no,no,07/06/2017,no,20:55,night,small,saika,mid,wednesday,weekday,no,7,6,2017
+acacia,2,2,80,100,20,cash,yes,yes,no,no,no,no,no,07/06/2017,no,17:20,afternoon,small,saika,mid,wednesday,weekday,no,7,6,2017
+acacia,3,1,163,200,37,cash,yes,no,no,no,no,no,no,07/06/2017,no,18:51,afternoon,small,saika,mid,wednesday,weekday,no,7,6,2017
+acacia,3,1,130,200,70,cash,no,yes,no,no,no,no,no,06/06/2017,no,14:51,afternoon,small,saika,mid,tuesday,weekday,no,6,6,2017
+eastmatt,1,1,44,54,10,cash,yes,no,no,no,no,no,no,05/06/2017,no,13:19,afternoon,median,cbd,mid,monday,weekday,no,5,6,2017
+tuskys,13,2,716,1000,264,cash,yes,yes,no,no,no,no,no,09/06/2017,no,19:30,night,chain,cbd,mid,friday,weekday,no,9,6,2017
+tuskys,1,1,215,250,35,cash,yes,no,no,no,no,no,no,09/06/2017,no,18:08,afternoon,chain,cbd,mid,friday,weekday,no,9,6,2017
+nakumatt,3,3,353,1000,647,cash,yes,yes,no,yes,no,no,no,09/06/2017,no,17:41,afternoon,chain,cbd,mid,friday,weekday,yes,9,6,2017
+nakumatt,1,1,52,200,148,cash,yes,no,no,no,no,no,no,09/06/2017,no,21:47,night,chain,cbd,mid,friday,weekday,yes,9,6,2017
+nakumatt,2,2,165,200,35,cash,yes,yes,no,no,no,no,no,09/06/2017,no,21:41,night,chain,cbd,mid,friday,weekday,yes,9,6,2017
+nakumatt,1,1,55,55,0,cash,no,no,yes,no,no,no,no,09/06/2017,no,20:07,night,chain,cbd,mid,friday,weekday,yes,9,6,2017
+acacia,1,1,115,200,85,cash,yes,no,no,no,no,no,no,09/06/2017,no,19:59,night,chain,saika,mid,friday,weekday,no,9,6,2017
+tuskys,2,1,30,100,70,cash,no,no,no,no,no,yes,no,09/06/2017,no,18:41,afternoon,chain,cbd,mid,friday,weekday,no,9,6,2017
+nakumatt,2,2,160,200,40,cash,no,yes,yes,no,no,no,no,09/06/2017,no,13:10,afternoon,chain,cbd,mid,friday,weekday,yes,9,6,2017
+nakumatt,1,1,55,100,45,cash,no,no,yes,no,no,no,no,09/06/2017,no,16:07,afternoon,chain,cbd,mid,friday,weekday,yes,9,6,2017
+nakumatt,1,1,55,500,445,cash,no,no,yes,no,no,no,no,09/06/2017,no,19:27,night,chain,cbd,mid,friday,weekday,yes,9,6,2017
+nakumatt,1,1,280,300,20,cash,no,no,yes,no,yes,no,no,08/06/2017,no,12:06,afternoon,chain,kilimani,high,thursday,weekday,no,8,6,2017
+nakumatt,1,1,50,50,0,cash,no,no,no,no,no,yes,no,09/06/2017,no,19:46,night,chain,cbd,mid,friday,weekday,yes,9,6,2017
+nakumatt,2,2,175,500,325,cash,no,yes,yes,no,no,no,no,09/06/2017,no,06:13,morning,chain,cbd,mid,friday,weekday,yes,9,6,2017
+nakumatt,1,1,50,50,0,cash,no,no,yes,no,no,no,no,09/06/2017,no,21:39,night,chain,cbd,mid,friday,weekday,yes,9,6,2017
+karrymart,1,1,120,150,30,cash,no,no,no,yes,no,no,no,09/06/2017,no,16:58,afternoon,chain,cbd,mid,friday,weekday,yes,9,6,2017
+nakumatt,1,1,150,150,0,cash,no,no,yes,no,yes,no,no,07/06/2017,no,13:55,afternoon,chain,kilimani,high,wednesday,weekday,no,7,6,2017
+acacia,1,1,49,50,1,cash,yes,no,no,no,no,no,no,09/06/2017,no,21:10,night,small,saika,mid,friday,weekday,no,9,6,2017
+ukwala,2,2,78,1000,922,cash,no,yes,yes,no,no,no,no,09/06/2017,no,07:44,morning,median,cbd,mid,friday,weekday,no,9,6,2017
+tuskys,1,1,100,100,0,cash,no,yes,no,no,no,no,no,09/06/2017,no,08:36,morning,chain,cbd,mid,friday,weekday,no,9,6,2017
+nakumatt,2,1,150,150,0,cash,yes,no,no,no,no,no,no,09/06/2017,no,06:25,morning,chain,cbd,mid,friday,weekday,yes,9,6,2017
+nakumatt,8,4,1422,2000,578,cash,yes,yes,yes,no,no,yes,no,09/06/2017,no,09:37,morning,chain,cbd,mid,friday,weekday,yes,9,6,2017
+ukwala,2,1,110,500,390,cash,yes,no,no,no,no,no,no,09/06/2017,no,21:08,night,median,cbd,mid,friday,weekday,no,9,6,2017
+ukwala,1,1,260,1000,740,cash,no,no,yes,no,no,no,no,09/06/2017,no,21:03,night,median,cbd,mid,friday,weekday,no,9,6,2017
+nakumatt,2,2,150,500,350,cash,no,no,yes,no,no,yes,no,09/06/2017,no,19:33,night,chain,cbd,mid,friday,weekday,yes,9,6,2017
+ukwala,1,1,95,100,5,cash,no,no,yes,no,no,no,no,09/06/2017,no,17:47,afternoon,median,cbd,mid,friday,weekday,no,9,6,2017
+tuskys,3,2,158,200,42,cash,yes,yes,no,no,no,no,no,09/06/2017,no,21:23,night,chain,cbd,mid,friday,weekday,no,9,6,2017
+ukwala,1,1,60,200,140,cash,no,no,no,yes,no,no,no,09/06/2017,no,17:49,afternoon,median,cbd,mid,friday,weekday,no,9,6,2017
+ukwala,1,1,90,500,410,cash,yes,no,no,no,no,no,no,09/06/2017,no,19:03,night,median,cbd,mid,friday,weekday,no,9,6,2017
+nakumatt,2,1,79,100,21,cash,yes,no,no,no,no,no,no,09/06/2017,no,21:35,night,chain,cbd,mid,friday,weekday,yes,9,6,2017
+ukwala,2,1,266,500,234,cash,yes,no,no,no,no,no,no,09/06/2017,no,19:01,night,median,cbd,mid,friday,weekday,no,9,6,2017
+tuskys,4,2,590,1000,410,cash,no,no,no,yes,no,yes,no,29/05/2017,no,16:21,afternoon,chain,cbd,mid,monday,weekday,no,29,5,2017
+acacia,4,2,705,705,0,mpesa,no,yes,yes,no,yes,no,no,10/06/2017,no,20:15,night,small,saika,mid,saturday,weekend,no,10,6,2017
+acacia,2,1,20,100,80,cash,no,no,yes,no,no,no,no,10/06/2017,no,19:10,night,small,saika,mid,saturday,weekend,no,10,6,2017
+acacia,1,1,90,100,10,cash,yes,no,no,no,no,no,no,10/06/2017,no,19:03,night,small,saika,mid,saturday,weekend,no,10,6,2017
+acacia,3,2,355,400,45,cash,yes,no,no,yes,no,no,no,10/06/2017,no,20:05,night,small,saika,mid,saturday,weekend,no,10,6,2017
+acacia,1,1,90,100,10,cash,yes,no,no,no,no,no,no,10/06/2017,no,18:12,afternoon,small,saika,mid,saturday,weekend,no,10,6,2017
+acacia,4,2,315,500,185,cash,no,yes,yes,no,no,no,no,10/06/2017,no,19:55,night,small,saika,mid,saturday,weekend,no,10,6,2017
+nakumatt,3,2,410,410,0,mpesa,no,yes,yes,no,yes,no,no,23/05/2017,no,16:28,afternoon,chain,cbd,mid,tuesday,weekday,yes,23,5,2017
+nakumatt,1,1,45,50,5,cash,no,no,yes,no,no,no,no,23/06/2017,no,11:05,morning,chain,cbd,mid,friday,weekday,yes,23,6,2017
+tuskys,1,1,55,1000,945,cash,no,no,yes,no,no,no,no,24/06/2017,no,14:19,afternoon,chain,cbd,mid,saturday,weekend,no,24,6,2017
+nakumatt,1,1,150,500,350,cash,no,no,yes,no,no,no,no,24/06/2017,no,12:21,afternoon,chain,cbd,mid,saturday,weekend,yes,24,6,2017
+tuskys,1,1,96,200,104,cash,no,yes,no,no,no,no,no,23/06/2017,no,20:58,night,chain,cbd,mid,friday,weekday,no,23,6,2017
+tuskys,3,2,105,110,5,cash,no,yes,yes,no,no,no,no,24/06/2017,no,13:58,afternoon,chain,cbd,mid,saturday,weekend,no,24,6,2017
+eastmatt,1,1,150,200,50,cash,yes,no,no,no,no,no,no,23/06/2017,no,19:27,night,chain,Kitengela,mid,friday,weekday,no,23,6,2017
+eastmatt,1,1,115,200,85,cash,no,no,no,yes,no,no,no,27-06-17,no,18:59,night,chain,Kitengela,mid,tuesday,weekday,no,27,6,2017
+eastmatt,1,1,135,200,65,cash,no,no,no,yes,no,no,no,28-06-17,no,18:16,night,chain,Kitengela,mid,wednesday,weekday,no,28,6,2017
+eastmatt,3,2,278,1000,722,cash,yes,no,no,yes,no,no,no,28-06-17,no,17:30,afternoon,chain,Kitengela,mid,wednesday,weekday,no,28,6,2017
+eastmatt,2,2,110,110,0,cash,yes,no,no,yes,no,no,no,28-06-17,no,14:31,afternoon,chain,Kitengela,mid,wednesday,weekday,no,28,6,2017
+eastmatt,1,1,95,100,5,cash,no,no,no,yes,yes,no,no,28-06-17,no,15:48,night,chain,Kitengela,mid,wednesday,weekday,no,28,6,2017
+eastmatt,1,1,71,100,29,cash,no,no,no,yes,no,no,no,28-06-17,no,19:41,night,chain,Kitengela,mid,wednesday,weekday,no,28,6,2017
+eastmatt,4,1,240,1000,760,cash,no,yes,no,no,no,no,no,28-06-17,no,19:29,night,chain,Kitengela,mid,wednesday,weekday,no,28,6,2017
+tumaini,1,1,100,100,40,cash,no,no,yes,no,no,no,no,22/08/2017,no,14:47,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,1,238,300,62,cash,no,yes,no,no,no,no,no,22/08/2017,no,15:54,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,60,100,40,cash,no,yes,no,no,no,no,no,22/08/2017,no,14:03,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,25,30,5,cash,no,yes,no,no,no,no,no,22/08/2017,no,15:40,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,100,100,0,cash,no,yes,no,no,no,no,no,22/08/2017,no,12:54,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,105,105,0,cash,no,yes,no,no,no,no,no,22/08/2017,no,12:57,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,134,150,16,cash,yes,yes,no,no,no,no,no,22/08/2017,no,12:01,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,115,200,85,cash,no,no,yes,yes,no,no,no,22/08/2017,no,17:58,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,3,2,191,200,9,cash,no,yes,yes,no,no,no,no,22/08/2017,no,17:57,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,4,3,373,500,127,cash,yes,yes,yes,no,no,no,no,22/08/2017,no,14:14,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,3,2,245,300,55,cash,no,no,yes,yes,no,no,no,22/08/2017,no,15:46,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,192,1000,808,cash,no,no,yes,yes,no,no,no,22/08/2017,no,17:34,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,55,100,45,cash,no,no,yes,no,no,no,no,22/08/2017,no,17:04,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,3,3,337,500,167,cash,yes,no,yes,yes,no,no,no,22/08/2017,no,17:05,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,4,2,785,1000,215,cash,no,yes,no,yes,no,no,no,22/08/2017,no,16:36,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,1,130,200,70,cash,no,no,yes,no,no,no,no,22/08/2017,no,15:21,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,45,45,0,cash,no,yes,no,no,no,no,no,22/08/2017,no,15:45,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,345,500,155,cash,yes,no,yes,no,no,no,no,22/08/2017,no,14:35,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,47,100,53,cash,no,no,yes,no,no,no,no,22/08/2017,no,16:42,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,26,50,24,cash,no,no,yes,no,no,no,no,22/08/2017,no,14:54,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,65,1000,935,cash,no,no,yes,no,no,no,no,22/08/2017,no,17:05,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,3,2,150,500,350,cash,no,no,yes,yes,no,no,no,22/08/2017,no,16:45,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,60,100,40,cash,no,yes,no,no,no,no,no,22/08/2017,no,17:21,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,92,100,8,cash,no,no,no,yes,no,no,no,22/08/2017,no,17:20,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,3,2,186,200,14,cash,no,yes,yes,no,no,no,no,22/08/2017,no,17:01,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,55,100,45,cash,no,no,yes,no,no,no,no,22/08/2017,no,16:50,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,105,110,5,cash,no,yes,yes,no,no,no,no,22/08/2017,no,16:59,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,45,100,55,cash,no,yes,no,no,no,no,no,22/08/2017,no,16:27,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,90,100,10,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:28,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,72,100,28,cash,no,yes,no,no,no,no,no,22/08/2017,no,17:27,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,90,100,10,cash,no,yes,yes,no,no,no,no,22/08/2017,no,16:38,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,182,500,318,cash,no,yes,yes,no,no,no,no,22/08/2017,no,17:20,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,3,3,233,300,67,cash,yes,yes,yes,no,no,no,no,22/08/2017,no,17:06,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,4,3,261,300,39,cash,yes,yes,yes,no,no,no,no,22/08/2017,no,16:31,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,100,100,0,cash,no,no,yes,no,no,no,no,22/08/2017,no,17:45,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,1,219,240,21,cash,no,no,no,yes,no,no,no,22/08/2017,no,14:31,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,4,3,274,1000,726,cash,yes,yes,yes,no,no,no,no,22/08/2017,no,16:27,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,30,50,20,cash,no,yes,no,no,no,no,no,22/08/2017,no,12:47,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,150,200,50,cash,yes,no,no,no,no,no,no,22/08/2017,no,17:22,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,1,100,100,0,cash,no,no,yes,no,no,no,no,22/08/2017,no,15:51,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,45,45,0,cash,no,yes,no,no,no,no,no,22/08/2017,no,17:33,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,90,200,110,cash,yes,yes,no,no,no,no,no,22/08/2017,no,17:29,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,96,100,4,cash,no,no,yes,no,no,no,no,22/08/2017,no,16:33,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,106,500,394,cash,yes,yes,no,no,no,no,no,22/08/2017,no,17:39,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,135,200,65,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:59,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,1,305,505,200,cash,yes,no,no,no,no,no,no,22/08/2017,no,17:05,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,6,2,390,1000,610,cash,no,yes,yes,no,no,no,no,22/08/2017,no,16:53,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,89,100,11,cash,no,yes,yes,no,no,no,no,22/08/2017,no,16:32,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,105,110,5,cash,no,yes,yes,no,no,no,no,22/08/2017,no,16:51,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,530,1030,500,cash,yes,yes,no,no,no,no,no,22/08/2017,no,17:14,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,310,1000,690,cash,no,yes,no,yes,no,no,no,22/08/2017,no,16:53,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,5,4,658,1000,342,cash,yes,yes,yes,yes,no,no,no,22/08/2017,no,17:18,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,1,216,500,284,cash,no,yes,no,no,no,no,no,22/08/2017,no,16:59,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,1,100,100,0,cash,no,no,yes,no,no,no,no,22/08/2017,no,16:50,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,150,150,0,mpesa,no,yes,yes,no,no,no,no,22/08/2017,no,17:07,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,88,1000,912,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:51,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,3,2,200,500,300,cash,yes,yes,no,no,no,no,no,22/08/2017,no,15:48,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,3,1,887,1000,113,cash,yes,no,no,no,no,no,no,22/08/2017,no,17:15,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,9,4,497,497,0,mpesa,yes,yes,yes,yes,no,no,no,22/08/2017,no,17:20,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,1,90,100,10,cash,yes,no,no,no,no,no,no,22/08/2017,no,17:19,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,25,25,0,cash,no,yes,no,no,no,no,no,22/08/2017,no,16:37,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,3,2,250,250,0,mpesa,no,yes,no,yes,no,no,no,22/08/2017,no,16:58,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,137,500,363,cash,yes,no,no,yes,no,no,no,22/08/2017,no,15:04,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,1,173,500,327,cash,no,yes,no,no,no,no,no,22/08/2017,no,14:37,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,55,500,445,cash,no,no,yes,no,no,no,no,22/08/2017,no,14:32,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,1,129,1000,891,cash,yes,no,no,no,no,no,no,22/08/2017,no,13:44,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,282,500,218,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:41,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,76,500,424,cash,yes,no,no,no,no,no,no,22/08/2017,no,14:34,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,3,2,225,1000,775,cash,yes,yes,no,no,no,no,no,22/08/2017,no,14:59,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,117,1007,890,cash,yes,no,yes,no,no,no,no,22/08/2017,no,15:01,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,470,500,30,cash,yes,no,no,no,no,no,no,22/08/2017,no,14:33,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,129,500,371,cash,yes,no,no,yes,no,no,no,22/08/2017,no,17:33,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,5,2,692,692,0,mpesa,yes,yes,no,no,no,no,no,22/08/2017,no,17:18,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,40,100,60,cash,no,no,yes,no,no,no,no,22/08/2017,no,17:14,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,4,1,275,275,0,mpesa,no,yes,no,no,no,no,no,22/08/2017,no,17:29,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,4,1,840,1000,160,cash,no,no,no,yes,no,no,no,22/08/2017,no,17:27,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,182,200,18,cash,yes,no,no,no,no,no,no,22/08/2017,no,17:15,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,50,200,150,cash,yes,no,no,no,no,no,no,22/08/2017,no,17:09,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,67,67,0,cash,yes,no,no,no,no,no,no,22/08/2017,no,17:48,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,50,50,0,cash,yes,no,no,no,no,no,no,22/08/2017,no,17:09,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,30,50,20,cash,no,no,no,no,no,yes,no,22/08/2017,no,17:08,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,164,164,0,cash,no,yes,yes,no,no,no,no,22/08/2017,no,17:00,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,1,1,0,cash,no,yes,no,no,no,no,no,22/08/2017,no,17:40,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,340,340,0,cash,yes,no,no,no,no,no,no,22/08/2017,no,17:50,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,450,450,0,mpesa,no,no,no,yes,no,no,no,22/08/2017,no,17:47,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,170,170,0,mpesa,yes,no,no,no,no,no,no,22/08/2017,no,15:30,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,2,115,1000,885,cash,no,yes,yes,no,no,no,no,22/08/2017,no,15:39,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,4,2,283,400,117,cash,yes,no,no,yes,no,no,no,22/08/2017,no,15:36,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,30,200,170,cash,no,yes,no,no,no,no,no,22/08/2017,no,15:38,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,2,1,220,250,30,cash,no,no,yes,no,no,no,no,22/08/2017,no,14:49,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,85,500,415,cash,no,no,no,yes,no,no,no,22/08/2017,no,14:49,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,76,500,424,cash,yes,no,no,no,no,no,no,22/08/2017,no,14:46,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,110,500,390,cash,no,no,yes,no,no,no,no,22/08/2017,no,14:47,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,6,3,557,1000,443,cash,yes,no,yes,yes,no,no,no,22/08/2017,no,14:51,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,180,200,20,cash,yes,no,no,no,no,no,no,22/08/2017,no,15:15,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,67,100,33,cash,yes,no,no,no,no,no,no,22/08/2017,no,12:43,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,12,3,1876,2000,124,cash,yes,yes,yes,no,no,no,no,22/08/2017,no,17:11,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,96,100,4,cash,yes,no,no,no,no,no,no,22/08/2017,no,17:03,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,3,2,547,1000,453,cash,yes,no,no,yes,no,no,no,22/08/2017,no,16:18,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,2,144,200,56,cash,yes,no,yes,no,no,no,no,22/08/2017,no,16:53,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,90,100,10,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:57,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,65,1000,935,cash,no,no,yes,no,no,no,no,22/08/2017,no,15:15,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,100,100,0,cash,yes,no,no,no,no,no,no,21/08/2017,no,22:19,night,chain,ongata rongai,mid,Monday,weekday,no,21,8,2017
+cleanshelf,8,2,612,1000,388,cash,yes,no,yes,no,no,no,no,22/08/2017,no,16:44,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,1,143,200,57,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:46,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,2,430,1000,570,cash,yes,no,no,yes,no,no,no,22/08/2017,no,16:53,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,170,200,30,cash,no,no,no,yes,no,no,no,22/08/2017,no,17:05,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,40,50,10,cash,no,yes,no,no,no,no,no,22/08/2017,no,16:36,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,100,200,100,cash,yes,no,no,no,no,no,no,22/08/2017,no,17:02,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,1,245,1000,755,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:33,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,45,500,455,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:58,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,5,3,283,500,217,cash,yes,no,yes,yes,no,no,no,22/08/2017,no,17:01,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,4,2,474,1000,526,cash,yes,no,yes,no,no,no,no,22/08/2017,no,17:10,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,60,1000,940,cash,no,no,yes,no,no,no,no,22/08/2017,no,17:10,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,2,265,265,0,redeemed points,yes,no,yes,no,no,no,no,22/08/2017,no,13:21,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,7,2,845,845,0,cash,yes,no,no,yes,no,no,no,22/08/2017,no,14:11,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,6,2,566,1000,434,cash,yes,no,yes,no,no,no,no,22/08/2017,no,15:38,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,51,51,0,cash,yes,no,no,no,no,no,no,22/08/2017,no,14:44,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,200,200,0,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:59,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,5,2,635,1000,365,cash,yes,no,no,yes,no,no,no,22/08/2017,no,12:52,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,90,100,10,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:46,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,205,220,15,cash,no,no,no,no,no,yes,no,22/08/2017,no,16:40,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,1,159,200,41,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:57,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,90,100,10,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:46,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,55,60,5,cash,no,no,yes,no,no,no,no,22/08/2017,no,16:32,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,1,140,200,60,cash,yes,no,no,no,no,no,no,22/08/2017,no,15:49,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,1,85,85,0,cash,no,no,yes,no,no,no,no,22/08/2017,no,15:03,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,2,150,200,50,cash,yes,no,yes,no,no,no,no,22/08/2017,no,12:38,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,65,65,0,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:49,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,3,2,455,500,45,cash,yes,yes,no,no,no,no,no,22/08/2017,no,16:54,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,2,265,265,0,redeemed points,yes,no,yes,no,no,no,no,22/08/2017,no,13:21,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,52,60,8,cash,yes,no,no,no,no,no,no,22/08/2017,no,13:28,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,100,100,0,cash,yes,no,no,no,no,no,no,22/08/2017,no,15:05,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,6,2,515,515,0,card,no,no,yes,no,no,yes,no,22/08/2017,no,15:28,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,200,200,0,cash,yes,no,no,no,no,no,no,22/08/2017,no,15:15,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,80,100,20,cash,yes,no,no,no,no,no,no,22/08/2017,no,14:44,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,70,1000,930,cash,yes,no,no,no,no,no,no,22/08/2017,no,14:05,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,99,100,1,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:02,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,80,100,20,cash,no,yes,no,no,no,no,no,22/08/2017,no,14:37,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,40,40,0,cash,no,yes,no,no,no,no,no,22/08/2017,no,14:14,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,50,50,0,cash,no,yes,no,no,no,no,no,22/08/2017,no,15:30,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,40,40,0,cash,no,yes,no,no,no,no,no,22/08/2017,no,14:47,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,70,70,0,cash,yes,no,no,no,no,no,no,22/08/2017,no,13:29,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,88,500,412,cash,yes,no,no,no,no,no,no,22/08/2017,no,16:24,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,9,1,1075,1100,25,cash,yes,no,no,no,no,no,no,22/08/2017,no,14:36,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,2,145,1000,855,cash,no,yes,yes,no,no,no,no,22/08/2017,no,12:20,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,2,145,1000,855,cash,no,yes,yes,no,no,no,no,22/08/2017,no,12:20,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,2,1,120,120,0,cash,yes,no,no,no,no,no,no,22/08/2017,no,13:01,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+cleanshelf,1,1,25,55,30,cash,no,no,yes,no,no,no,no,22/08/2017,no,12:34,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017
+tumaini,1,1,147,200,53,cash,yes,no,no,no,no,no,no,26/08/2017,no,14:06,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,122,150,28,cash,no,no,no,yes,no,no,no,26/08/2017,no,18:00,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,200,200,0,cash,yes,no,no,no,no,no,no,26/08/2017,no,13:12,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,4,2,347,1000,653,cash,yes,no,yes,no,no,no,no,26/08/2017,no,15:41,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,100,200,100,cash,no,no,no,yes,no,no,no,26/08/2017,no,17:13,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,79,500,421,cash,no,no,yes,no,no,no,no,26/08/2017,no,14:31,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,273,273,0,mpesa,yes,no,no,no,no,no,no,26/08/2017,no,14:30,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,335,400,65,cash,no,no,no,yes,no,no,no,26/08/2017,no,17:59,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,230,300,70,cash,no,no,no,yes,no,no,no,26/08/2017,no,17:15,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,4,2,454,500,46,cash,yes,no,no,yes,no,no,no,26/08/2017,no,16:26,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,101,101,0,cash,yes,no,no,no,no,no,no,26/08/2017,no,14:31,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,4,2,195,200,5,cash,no,yes,yes,no,no,no,no,26/08/2017,no,17:49,evening,chain,ongata rongai,mid,saturday,weekday,no,26,8,2017
+tumaini,4,2,403,500,97,cash,yes,no,no,yes,no,no,no,26/08/2017,no,16:28,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,60,100,40,cash,yes,no,no,no,no,no,no,26/08/2017,no,16:44,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,99,99,0,cash,no,no,yes,no,no,no,no,26/08/2017,no,14:11,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,50,50,0,cash,no,no,yes,no,no,no,no,26/08/2017,no,11:12,morning,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,71,500,429,cash,yes,yes,no,no,no,no,no,26/08/2017,no,12:01,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,2,115,115,0,cash,yes,no,yes,no,no,no,no,26/08/2017,no,11:18,morning,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,3,3,280,400,120,cash,yes,yes,yes,no,no,no,no,26/08/2017,no,16:31,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,260,500,240,cash,yes,no,no,no,no,no,no,26/08/2017,no,16:59,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,270,1000,730,cash,yes,no,no,no,no,no,no,26/08/2017,no,12:33,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,3,2,110,110,0,mpesa,yes,yes,no,no,no,no,no,26/08/2017,no,13:36,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,2,110,110,0,cash,no,no,yes,no,no,yes,no,26/08/2017,no,14:36,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,55,100,45,cash,no,no,yes,no,no,no,no,26/08/2017,no,15:13,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,94,100,6,cash,yes,no,no,no,no,no,no,26/08/2017,no,18:24,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,100,100,0,cash,yes,no,no,no,no,no,no,26/08/2017,no,17:44,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,5,2,823,823,0,mpesa,yes,no,no,yes,no,no,no,26/08/2017,no,17:35,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,2,119,1000,881,cash,yes,no,no,no,no,yes,no,26/08/2017,no,14:49,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,16,5,2304,3000,696,mpesa,yes,yes,yes,yes,no,yes,no,26/08/2017,no,15:38,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,7,2,522,1000,478,cash,yes,no,yes,no,no,no,no,26/08/2017,no,16:14,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,5,2,785,1000,215,cash,yes,no,no,yes,no,no,no,26/08/2017,no,16:54,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,170,500,330,cash,no,no,yes,no,no,no,no,26/08/2017,no,17:15,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,2,92,200,108,cash,no,yes,yes,no,no,no,no,26/08/2017,no,17:02,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,4,3,355,1000,645,cash,yes,yes,yes,no,no,no,no,26/08/2017,no,17:08,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,4,2,718,718,0,mpesa,yes,no,yes,no,no,no,no,26/08/2017,no,15:58,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,7,4,618,1000,382,cash,yes,yes,yes,yes,no,no,no,26/08/2017,no,15:59,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,6,2,278,1000,722,cash,yes,yes,no,no,no,no,no,26/08/2017,no,14:42,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,154,154,0,mpesa,no,no,yes,no,no,no,no,26/08/2017,no,16:29,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,4,2,1119,1119,0,mpesa,yes,no,no,yes,no,no,no,25/08/2017,no,20:47,night,chain,ongata rongai,mid,Friday,weekday,no,25,8,2017
+tumaini,4,3,342,1000,658,cash,yes,yes,yes,no,no,no,no,26/08/2017,no,17:23,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,3,2,201,201,0,cash,no,yes,yes,no,no,no,no,26/08/2017,no,15:20,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,55,55,0,cash,no,no,yes,no,no,no,no,26/08/2017,no,15:10,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,180,1000,820,cash,yes,no,no,no,no,no,no,26/08/2017,no,14:36,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,3,2,245,500,255,cash,yes,yes,no,no,no,no,no,26/08/2017,no,15:55,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,140,140,0,cash,no,yes,no,no,no,no,no,26/08/2017,no,15:43,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,100,100,0,cash,yes,no,no,no,no,no,no,26/08/2017,no,17:40,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,104,200,96,cash,yes,no,no,no,no,no,no,26/08/2017,no,12:46,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,4,3,680,680,0,cash,no,no,yes,yes,yes,no,no,26/08/2017,no,17:05,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,3,2,205,1000,795,cash,yes,no,yes,no,no,no,no,26/08/2017,no,18:33,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,2,105,110,5,cash,no,no,yes,no,no,yes,no,26/08/2017,no,18:20,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,4,2,243,500,257,cash,no,yes,yes,no,no,no,no,26/08/2017,no,13:46,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,2,94,100,6,cash,yes,no,no,yes,no,no,no,26/08/2017,no,18:32,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,6,2,508,510,2,cash,yes,no,no,yes,no,no,no,26/08/2017,no,18:34,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,67,1000,933,cash,yes,no,no,no,no,no,no,26/08/2017,no,18:13,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,115,115,0,cash,yes,no,no,no,no,no,no,26/08/2017,no,17:09,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,4,3,312,1000,688,cash,yes,yes,yes,no,no,no,no,26/08/2017,no,17:10,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,300,300,0,cash,yes,no,no,no,no,no,no,26/08/2017,no,15:27,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,130,130,0,cash,yes,no,no,no,no,no,no,26/08/2017,no,13:42,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,317,357,40,cash,yes,no,no,no,no,no,no,26/08/2017,no,16:19,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,105,110,5,cash,no,yes,no,no,no,no,no,26/08/2017,no,15:45,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,99,100,1,cash,no,no,yes,no,no,no,no,26/08/2017,no,15:40,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,2,76,200,124,cash,no,yes,yes,no,no,no,no,26/08/2017,no,17:10,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,4,2,626,626,0,mpesa,yes,yes,no,no,no,no,no,26/08/2017,no,17:27,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,136,150,14,cash,yes,no,no,no,no,no,no,26/08/2017,no,16:17,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,3,1,60,60,0,cash,no,yes,no,no,no,no,no,26/08/2017,no,12:57,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,95,100,5,cash,no,no,yes,no,no,no,no,26/08/2017,no,15:44,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,4,2,682,1000,318,cash,yes,yes,no,no,no,no,no,26/08/2017,no,15:12,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,100,100,0,mpesa,yes,no,no,no,no,no,no,26/08/2017,no,09:23,morning,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,3,2,375,500,125,cash,yes,no,yes,no,no,no,no,26/08/2017,no,17:54,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,55,55,0,cash,no,no,yes,no,no,no,no,26/08/2017,no,16:37,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,157,200,43,cash,yes,no,no,no,no,no,no,26/08/2017,no,16:33,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,3,1,185,200,15,cash,yes,no,no,no,no,no,no,26/08/2017,no,16:43,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,40,40,0,cash,no,no,yes,no,no,no,no,26/08/2017,no,16:50,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,4,1,468,468,0,mpesa,yes,no,no,no,no,no,no,26/08/2017,no,17:40,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,120,1000,880,cash,yes,no,no,no,no,no,no,26/08/2017,no,17:40,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,2,217,500,283,cash,yes,no,yes,no,no,no,no,26/08/2017,no,17:46,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,94,100,6,cash,yes,no,no,no,no,no,no,26/08/2017,no,16:14,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,90,200,110,cash,no,no,yes,no,no,no,no,26/08/2017,no,16:44,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,11,3,2079,2079,0,mpesa,yes,no,no,yes,no,yes,no,26/08/2017,no,17:40,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,1,1,1200,1200,0,mpesa,yes,no,no,no,no,no,no,26/08/2017,no,16:47,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,3,2,321,1000,679,cash,yes,no,yes,no,no,no,no,26/08/2017,no,16:42,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,263,500,237,cash,yes,no,no,no,no,no,no,26/08/2017,no,15:57,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,3,1,259,260,1,cash,yes,no,no,no,no,no,no,26/08/2017,no,13:51,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tumaini,2,1,235,1000,765,cash,yes,no,no,no,no,no,no,26/08/2017,no,16:53,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017
+tuskys,7,2,1128,1128,0,card,yes,no,no,yes,no,no,no,29/08/2017,no,17:38,evening,chain,ongata rongai,mid,Tuesday,weekday,no,29,8,2017
+cleanshelf,2,1,330,450,120,cash,yes,no,no,no,no,no,no,3/9/2017,no,17:32,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,3,2,142,142,0,cash,yes,no,no,no,no,yes,no,3/9/2017,no,16:26,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,2,115,200,85,cash,yes,no,yes,no,no,no,no,3/9/2017,no,17:45,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,5,2,327,1000,673,cash,yes,no,no,no,no,yes,no,3/9/2017,no,14:49,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,2,155,155,0,mpesa,no,yes,yes,no,no,no,no,3/9/2017,no,14:42,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+,1,1,60,60,0,cash,no,no,no,no,no,yes,no,3/9/2017,no,13:18,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,292,1000,708,cash,no,no,no,no,no,yes,no,3/9/2017,no,15:09,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,4,3,476,1000,524,cash,yes,yes,no,yes,no,no,no,3/9/2017,no,17:20,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,7,2,660,1000,340,cash,yes,yes,no,no,no,no,no,3/9/2017,no,15:21,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,4,3,370,500,130,cash,yes,yes,no,yes,no,no,no,3/9/2017,no,15:32,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,13,4,1172,2000,828,cash,yes,yes,no,yes,no,yes,no,3/9/2017,no,15:20,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,4,2,303,1000,697,cash,yes,no,yes,no,no,no,no,3/9/2017,no,16:14,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,3,2,186,200,14,cash,yes,no,no,no,no,yes,no,3/9/2017,no,15:04,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,25,100,75,cash,no,no,yes,no,no,no,no,3/9/2017,no,15:39,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,2,75,500,425,cash,no,yes,yes,no,no,no,no,3/9/2017,no,16:51,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,10,4,694,1000,306,cash,yes,yes,yes,no,no,yes,no,3/9/2017,no,17:10,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,2,90,100,10,cash,yes,no,no,no,no,yes,no,3/9/2017,no,17:00,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,195,200,5,cash,no,no,no,yes,no,no,no,3/9/2017,no,17:24,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,40,100,60,cash,no,yes,no,no,no,no,no,3/9/2017,no,15:49,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,90,100,10,cash,yes,no,no,no,no,no,no,3/9/2017,no,13:19,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,2,138,500,362,cash,no,yes,yes,no,no,no,no,3/9/2017,no,15:29,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,300,500,200,cash,yes,no,no,no,no,no,no,3/9/2017,no,15:29,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,2,95,1000,905,cash,no,yes,yes,no,no,no,no,3/9/2017,no,15:34,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,80,500,420,cash,no,yes,no,no,no,no,no,3/9/2017,no,11:24,morning,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,6,4,295,500,205,cash,yes,yes,no,yes,no,yes,no,3/9/2017,no,15:33,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,180,200,20,cash,yes,no,no,no,no,no,no,3/9/2017,no,17:01,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,80,100,20,cash,no,yes,no,no,no,no,no,3/9/2017,no,17:30,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,1,96,100,4,cash,yes,no,no,no,no,no,no,3/9/2017,no,17:43,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,6,2,700,1000,300,cash,no,no,no,yes,no,yes,no,3/9/2017,no,16:49,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,2,165,200,35,cash,no,yes,yes,no,no,no,no,3/9/2017,no,15:03,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,3,2,145,150,5,cash,no,yes,no,yes,no,no,no,3/9/2017,no,16:14,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,1,140,200,60,cash,no,yes,no,no,no,no,no,3/9/2017,no,17:25,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,3,1,330,500,170,cash,no,no,no,yes,no,no,no,3/9/2017,no,15:54,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,125,200,75,cash,no,no,no,no,no,yes,no,3/9/2017,no,16:11,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,12,3,1360,2000,640,cash,yes,no,yes,yes,no,no,no,3/9/2017,no,16:12,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,3,2,270,300,30,cash,yes,no,yes,no,no,no,no,3/9/2017,no,16:09,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,20,20,0,cash,no,no,no,no,no,yes,no,3/9/2017,no,16:10,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,290,300,10,cash,no,yes,no,no,no,no,no,3/9/2017,no,16:10,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,8,3,541,1000,459,cash,yes,no,no,yes,no,yes,no,3/9/2017,no,16:15,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,2,140,200,60,cash,yes,yes,no,no,no,no,no,3/9/2017,no,16:28,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,125,205,80,cash,no,no,no,yes,no,no,no,3/9/2017,no,16:36,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,3,1,455,100,545,cash,no,yes,no,no,no,no,no,3/9/2017,no,16:02,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,1,240,250,10,cash,yes,no,no,no,no,no,no,3/9/2017,no,16:25,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,125,200,75,cash,yes,no,no,no,no,no,no,3/9/2017,no,17:22,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,11,2,1287,1300,13,cash,yes,no,yes,no,no,no,no,3/9/2017,no,14:06,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,4,2,320,500,180,cash,no,yes,no,no,no,yes,no,3/9/2017,no,15:44,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,5,5,0,cash,no,yes,no,no,no,no,no,3/9/2017,no,16:45,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,100,100,0,cash,yes,no,no,no,no,no,no,3/9/2017,no,17:31,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,10,10,0,cash,no,no,no,no,no,yes,no,3/9/2017,no,13:04,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,3,2,408,408,0,card,yes,no,yes,no,no,no,no,3/9/2017,no,15:31,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,120,120,0,cash,yes,no,no,no,no,no,no,3/9/2017,no,17:28,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,3,1,348,1000,652,cash,yes,no,no,no,no,no,no,3/9/2017,no,16:24,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,4,1,379,1000,621,cash,yes,no,no,no,no,no,no,3/9/2017,no,16:50,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,1,115,120,5,cash,yes,no,no,no,no,no,no,3/9/2017,no,14:40,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,3,2,209,220,11,cash,yes,yes,no,no,no,no,no,3/9/2017,no,14:35,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,3,1,135,135,0,cash,no,no,yes,no,no,no,no,3/9/2017,no,16:46,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,120,150,30,cash,no,no,yes,no,no,no,no,3/9/2017,no,17:40,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,25,25,0,cash,no,yes,no,no,no,no,no,3/9/2017,no,16:15,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,65,200,135,cash,yes,no,no,no,no,no,no,3/9/2017,no,17:25,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,3,2,1233,1500,267,cash,yes,no,no,no,yes,no,no,3/9/2017,no,17:29,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,5,3,263,400,137,cash,yes,no,no,yes,no,yes,no,3/9/2017,no,16:51,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,40,40,0,cash,no,no,no,no,no,yes,no,3/9/2017,no,16:35,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,40,40,0,cash,no,no,no,no,no,yes,no,3/9/2017,no,17:42,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,1,200,500,300,cash,yes,no,no,no,no,no,no,3/9/2017,no,14:47,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,295,500,205,cash,no,no,no,no,no,yes,no,3/9/2017,no,13:37,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,155,1000,845,cash,yes,no,no,no,no,no,no,3/9/2017,no,17:54,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,90,100,10,cash,yes,no,no,no,no,no,no,3/9/2017,no,16:50,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,90,100,10,cash,no,yes,no,no,no,no,no,3/9/2017,no,14:55,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,65,100,35,cash,no,no,no,no,no,yes,no,3/9/2017,no,16:40,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,4,2,380,500,120,cash,no,yes,yes,no,no,no,no,3/9/2017,no,15:04,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,45,100,55,cash,no,yes,no,no,no,no,no,3/9/2017,no,14:34,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,2,375,400,25,cash,yes,yes,no,no,no,no,no,3/9/2017,no,16:11,evening,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,3,2,125,500,375,cash,no,yes,no,yes,no,no,no,3/9/2017,no,14:32,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,2,2,86,100,14,cash,yes,yes,no,no,no,no,no,3/9/2017,no,14:18,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+cleanshelf,1,1,360,400,40,cash,no,no,no,no,no,yes,no,3/9/2017,no,15:40,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017
+tumaini,4,2,417,1000,583,cash,no,yes,yes,no,no,no,no,8/9/2017,no,19:03,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,5,2,399,399,0,cash,yes,no,no,yes,no,no,no,8/9/2017,no,19:00,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,4,3,687,700,13,cash,yes,no,yes,yes,no,no,no,8/9/2017,no,19:02,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,5,1,753,1000,247,cash,yes,no,no,no,no,no,no,8/9/2017,no,18:04,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,11,2,1990,2000,10,cash,yes,no,no,yes,no,no,no,8/9/2017,no,19:20,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,2,1,110,120,10,cash,yes,no,no,no,no,no,no,8/9/2017,no,18:28,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,230,500,270,cash,no,no,no,no,no,yes,no,8/9/2017,no,19:25,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,4,3,211,500,289,cash,yes,no,no,yes,no,yes,no,8/9/2017,no,17:29,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,40,50,10,cash,no,yes,no,no,no,no,no,8/9/2017,no,17:00,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,50,100,50,cash,no,no,no,yes,no,no,no,8/9/2017,no,19:04,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,2,1,90,100,10,cash,yes,no,no,no,no,no,no,8/9/2017,no,19:10,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,158,200,42,cash,no,yes,no,no,no,no,no,8/9/2017,no,17:17,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,2,2,100,1000,900,cash,no,yes,yes,no,no,no,no,8/9/2017,no,18:46,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,4,3,405,1000,595,cash,yes,yes,no,yes,no,no,no,8/9/2017,no,19:24,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,60,100,40,cash,no,no,yes,no,no,no,no,8/9/2017,no,16:31,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,2,2,160,200,40,cash,yes,no,no,yes,no,no,no,8/9/2017,no,18:05,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,60,100,40,cash,no,no,yes,no,no,no,no,8/9/2017,no,17:58,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,3,1,124,500,376,cash,yes,no,no,no,no,no,no,8/9/2017,no,16:58,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,100,500,400,cash,yes,no,no,no,no,no,no,8/9/2017,no,18:32,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,5,1,468,500,32,cash,yes,no,no,no,no,no,no,8/9/2017,no,17:43,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,5,3,451,500,49,cash,yes,yes,yes,no,no,no,no,8/9/2017,no,19:28,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,3,1,468,1000,532,cash,yes,no,no,no,no,no,no,8/9/2017,no,19:08,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,2,1,212,250,38,cash,yes,no,no,no,no,no,no,8/9/2017,no,18:55,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,50,1000,950,cash,no,yes,no,no,no,no,no,8/9/2017,no,18:46,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,45,100,55,cash,yes,no,no,no,no,no,no,8/9/2017,no,18:20,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,8,4,982,1000,10,cash,yes,yes,yes,no,no,yes,no,8/9/2017,no,18:05,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,63,65,2,cash,no,no,yes,no,no,no,no,8/9/2017,no,19:31,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,5,4,462,500,38,cash,yes,yes,no,yes,no,yes,no,8/9/2017,no,18:27,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,2,1,110,500,390,cash,no,no,yes,no,no,no,no,8/9/2017,no,18:30,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,2,2,129,200,71,cash,no,yes,yes,no,no,no,no,8/9/2017,no,18:13,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,3,2,449,500,51,cash,yes,no,no,no,no,yes,no,8/9/2017,no,18:09,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,85,200,115,cash,no,no,no,yes,no,no,no,8/9/2017,no,18:38,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,150,500,350,cash,no,no,yes,no,no,no,no,8/9/2017,no,18:11,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,3,1,265,500,235,cash,yes,no,no,no,no,no,no,8/9/2017,no,18:14,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,4,3,186,200,14,cash,yes,no,yes,no,no,yes,no,8/9/2017,no,18:10,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,3,2,160,200,40,cash,yes,no,no,no,no,yes,no,8/9/2017,no,19:06,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,65,200,135,cash,no,yes,no,no,no,no,no,8/9/2017,no,18:23,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,5,1,254,254,0,cash,yes,no,no,no,no,no,no,8/9/2017,no,19:20,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,107,150,43,cash,no,yes,no,no,no,no,no,8/9/2017,no,18:29,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,2,2,90,100,10,cash,yes,no,yes,no,no,no,no,8/9/2017,no,17:57,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,90,100,10,cash,no,yes,no,no,no,no,no,8/9/2017,no,20:01,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,25,30,5,cash,no,no,yes,no,no,no,no,8/9/2017,no,12:05,afternoon,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,9,4,1247,2000,753,cash,yes,no,yes,yes,no,yes,no,8/9/2017,no,17:18,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,3,2,201,201,0,cash,yes,no,no,yes,no,no,no,8/9/2017,no,18:16,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,60,60,0,cash,yes,no,no,no,no,no,no,8/9/2017,no,18:19,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,3,2,238,500,262,cash,yes,yes,no,no,no,no,no,8/9/2017,no,17:32,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,6,3,562,1000,438,cash,yes,no,yes,yes,no,no,no,8/9/2017,no,19:38,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,50,50,0,cash,yes,no,no,no,no,no,no,8/9/2017,no,11:08,morning,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,30,30,0,cash,no,yes,no,no,no,no,no,8/9/2017,no,17:40,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,5,1,477,1000,523,cash,yes,no,no,no,no,no,no,8/9/2017,no,16:26,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,180,1000,820,cash,yes,no,no,no,no,no,no,8/9/2017,no,18:42,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,6,4,611,1000,389,cash,yes,yes,no,yes,no,yes,no,8/9/2017,no,18:06,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,5,2,547,1000,453,cash,yes,no,no,yes,no,no,no,8/9/2017,no,16:57,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,4,2,255,1000,745,cash,no,yes,yes,no,no,no,no,8/9/2017,no,18:03,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,2,1,153,200,47,cash,yes,no,no,no,no,no,no,8/9/2017,no,19:10,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,60,100,40,cash,yes,no,no,no,no,no,no,8/9/2017,no,17:37,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,55,60,5,cash,yes,no,no,no,no,no,no,8/9/2017,no,17:27,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,145,500,355,cash,no,yes,no,no,no,no,no,8/9/2017,no,18:13,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,100,1000,900,cash,no,yes,no,no,no,no,no,8/9/2017,no,18:35,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,10,20,10,cash,no,no,no,no,no,yes,no,8/9/2017,no,17:40,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,2,1,123,1000,877,cash,yes,no,no,no,no,no,no,8/9/2017,no,19:17,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,3,3,100,200,32,cash,yes,yes,yes,no,no,no,no,8/9/2017,no,19:15,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,3,2,205,250,45,cash,yes,yes,no,no,no,no,no,8/9/2017,no,17:59,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,150,200,50,cash,no,no,yes,no,no,no,no,8/9/2017,no,17:34,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,5,3,359,400,41,cash,yes,yes,no,no,no,yes,no,8/9/2017,no,17:56,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,3,1,504,1000,496,cash,no,no,no,yes,no,no,no,8/9/2017,no,18:43,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,10,495,485,cash,no,no,no,yes,no,yes,no,8/9/2017,no,18:44,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,2,1,92,100,8,cash,yes,no,no,no,no,no,no,8/9/2017,no,18:12,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,3,2,153,200,47,cash,yes,yes,no,no,no,no,no,8/9/2017,no,17:07,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,5,2,516,520,4,cash,yes,no,no,no,no,yes,no,8/9/2017,no,19:32,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,325,350,25,cash,no,no,no,yes,no,yes,no,8/9/2017,no,19:09,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,60,500,440,cash,no,no,yes,no,no,no,no,8/9/2017,no,17:02,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,3,2,419,419,0,cash,yes,no,no,yes,no,no,no,8/9/2017,no,18:19,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,55,100,45,cash,no,no,yes,no,no,no,no,8/9/2017,no,15:43,afternoon,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,55,70,15,cash,no,no,yes,no,no,no,no,8/9/2017,no,15:01,afternoon,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,6,4,618,1000,382,cash,yes,yes,yes,no,no,yes,no,8/9/2017,no,16:54,afternoon,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,70,70,0,cash,no,no,no,yes,no,no,no,8/9/2017,no,19:24,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,4,1,246,250,4,cash,no,no,yes,no,no,no,no,8/9/2017,no,19:12,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,170,170,0,cash,yes,no,no,no,no,no,no,8/9/2017,no,18:10,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,61,65,4,cash,no,no,no,yes,no,no,no,8/9/2017,no,19:29,night,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,5,3,235,500,265,cash,yes,yes,no,no,no,yes,no,8/9/2017,no,17:20,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,40,50,10,cash,no,no,yes,no,no,no,no,8/9/2017,no,16:19,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,140,140,0,cash,no,yes,no,no,no,no,no,8/9/2017,no,17:46,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,55,55,0,cash,no,no,yes,no,no,no,no,8/9/2017,no,17:46,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+tumaini,1,1,50,200,150,cash,no,no,no,yes,no,no,no,8/9/2017,no,17:27,evening,chain,ongata rongai,mid,Friday,weekday,no,8,9,2017
+acacia,1,1,90,100,10,cash,yes,no,no,no,no,no,no,20/05/2017,no,19:33,night,small,saika,mid,saturday,weekend,no,20,5,2017
+nakumatt,3,1,381,1000,619,cash,yes,no,no,no,no,no,no,28/08/2017,yes,21:06,night,chain,junction,mid,Monday,weekday,no,28,8,2017
+large neema,2,1,130,200,70,cash,yes,no,no,no,no,no,no,29/05/2017,no,19:25,night,small,kangundo road,mid,Monday,weekday,no,29,5,2017
+nakumatt,1,1,1250,1250,0,mpesa,no,no,no,yes,no,no,no,28/08/2017,yes,21:03,night,chain,junction,mid,Monday,weekday,no,28,8,2017
+nakumatt,1,1,49,100,51,cash,yes,no,no,no,no,no,no,29/08/2017,yes,10:23,morning,chain,junction,mid,Tuesday,weekday,no,29,8,2017
+interstrat,1,1,800,2000,1200,cash,no,no,yes,no,no,no,no,16/06/2017,yes,19:15,night,small,karen,high,Friday,weekday,no,16,6,2017
+acacia,4,2,310,1000,690,cash,yes,no,no,no,no,yes,no,17/06/2017,no,13:50,afternoon,small,saika,mid,saturday,weekend,no,17,6,2017
+tuskys,2,1,395,1000,605,cash,no,no,no,yes,no,no,no,6/12/2017,no,14:42,afternoon,chain,cbd,mid,saturday,weekend,no,6,12,2017
+tuskys,6,2,1842,1842,0,mpesa,yes,no,yes,no,no,no,no,5/9/2017,no,21:23,night,chain,cbd,mid,Tuesday,weekday,no,5,9,2017
+naivas,2,1,1385,1385,0,cash,yes,no,no,no,no,no,no,22/06/2017,no,09:33,morning,chain,komarock,mid,Thursday,weekday,no,22,6,2017
+acacia,15,3,1937,2000,63,cash,yes,no,no,yes,no,yes,no,6/9/2017,no,19:30,night,small,saika,mid,Wednesday,weekday,no,6,9,2017
+nakumatt,2,1,123,150,27,cash,yes,no,no,no,no,no,no,13/06/2017,no,21:54,night,chain,cbd,mid,Tuesday,weekday,yes,13,6,2017
+neema,3,3,388,500,112,cash,yes,yes,no,yes,no,no,no,12/6/2017,no,15:39,afternoon,small,cbd,mid,Monday,weekday,no,12,6,2017
+nakumatt,1,1,110,150,40,cash,no,no,yes,no,no,no,no,10/6/2017,yes,14:00,afternoon,chain,prestige,mid,saturday,weekend,no,10,6,2017
+acacia,2,1,159,200,41,cash,yes,no,no,no,no,no,no,13/06/2017,no,07:55,morning,small,saika,mid,Tuesday,weekday,no,13,6,2017
+chandarana,1,1,58,100,42,cash,yes,no,no,no,no,no,no,10/6/2017,yes,18:20,evening,chain,adlife,high,saturday,weekend,no,10,6,2017
+chandarana,1,1,99,200,101,cash,yes,no,no,no,no,no,no,11/6/2017,yes,13:07,afternoon,chain,yaya,high,Sunday,weekend,no,11,6,2017
+nakumatt,1,1,75,100,25,cash,yes,no,no,no,no,no,no,13/07/2017,no,21:44,night,chain,cbd,mid,Tuesday,weekday,yes,13,7,2017
+nakumatt,4,1,1779,1779,0,mpesa,yes,no,no,no,no,no,no,26/05/2017,yes,20:25,night,chain,junction,mid,Tuesday,weekday,no,26,5,2017
+acacia,1,1,90,500,410,cash,yes,no,no,no,no,no,no,13/06/2017,no,18:59,evening,small,saika,mid,Tuesday,weekday,no,13,6,2017
+tuskys,1,1,45,50,5,cash,yes,no,no,no,no,no,no,14/06/2017,no,19:33,night,chain,cbd,mid,Wednesday,weekday,no,14,6,2017
+tuskys,2,1,177,1000,823,cash,no,yes,no,no,no,no,no,14/06/2017,no,18:19,evening,chain,cbd,mid,Wednesday,weekday,no,14,6,2017
+nakumatt,6,2,1712,1712,0,card,yes,no,yes,no,no,no,no,30/06/2017,no,21:07,night,chain,cbd,mid,Friday,weekday,yes,30,6,2017
+nakumatt,1,1,60,60,0,cash,no,no,yes,no,no,no,no,19/06/2017,no,14:36,afternoon,chain,cbd,mid,Monday,weekday,yes,19,6,2017
+nakumatt,2,2,1380,1380,0,mpesa,no,no,yes,no,no,yes,no,24/07/2017,yes,14:33,afternoon,chain,prestige,mid,saturday,weekend,no,24,7,2017
+nakumatt,1,1,90,1000,910,cash,no,no,no,no,no,yes,no,17/06/2017,no,09:56,morning,chain,karen,high,saturday,weekend,no,17,6,2017
+nakumatt,3,2,971,971,0,mpesa,no,no,yes,no,no,yes,no,25/07/2017,no,22:02,night,chain,cbd,mid,Tuesday,weekday,yes,25,7,2017
+nakumatt,4,2,3970,3970,0,mpesa,no,no,yes,no,yes,yes,no,4/7/2017,yes,20:18,night,chain,junction,mid,Friday,weekday,no,4,7,2017
+nakumatt,1,1,49,50,1,cash,yes,no,no,no,no,no,no,30/06/2017,no,21:22,night,chain,cbd,mid,Monday,weekday,yes,30,6,2017
+nakumatt,1,1,55,200,145,cash,no,no,yes,no,no,no,no,29/06/2017,no,18:56,evening,chain,cbd,mid,Sunday,weekend,yes,29,6,2017
+acacia,7,3,1175,1175,0,cash,yes,no,yes,no,yes,no,no,16/07/2017,no,19:08,night,small,saika,mid,saturday,weekend,no,16,7,2017
+nakumatt,2,2,516,516,0,card,yes,no,yes,no,no,no,no,17/07/2017,yes,20:58,night,chain,junction,mid,Thursday,weekday,no,17,7,2017
+nakumatt,10,5,6259,6259,0,card,yes,yes,no,yes,yes,yes,no,11/7/2017,yes,19:29,night,chain,junction,mid,Friday,weekday,no,11,7,2017
+zucchini,11,2,1905,1905,0,cash,yes,no,no,no,yes,no,no,3/8/2017,yes,20:37,evening,chain,junction,mid,Thursday,weekday,no,3,8,2017
+nakumatt,1,1,190,1000,810,cash,no,no,yes,no,no,no,no,30/07/2017,no,21:09,night,chain,cbd,mid,Monday,weekday,yes,30,7,2017
+nakumatt,2,2,960,1000,40,cash,no,no,yes,no,yes,no,no,12/6/2017,yes,18:39,evening,chain,junction,mid,Monday,weekday,no,12,6,2017
+nakumatt,1,1,360,1000,640,cash,no,no,no,yes,no,no,no,28/06/2017,no,20:26,night,chain,junction,mid,Wednesday,weekday,no,28,6,2017
+nakumatt,1,1,80,100,20,cash,no,yes,no,no,no,no,no,28/06/2017,no,21:26,night,chain,junction,mid,Wednesday,weekday,no,28,6,2017
+nakumatt,1,1,45,50,5,cash,no,no,yes,no,no,no,no,23/6/2017,no,11:05,morning,chain,cbd,mid,Friday,weekday,yes,23,6,2017
+nakumatt,1,1,25,500,475,cash,no,no,no,no,no,yes,no,19/06/2017,no,10:06,morning,chain,cbd,mid,Tuesday,weekday,no,19,6,2017
+nakumatt,1,1,49,1000,951,cash,yes,no,no,no,no,no,no,19/06/2017,no,08:26,morning,chain,cbd,mid,Tuesday,weekday,no,19,6,2017
+nakumatt,2,1,150,1000,850,cash,no,no,yes,no,no,no,no,23/06/2017,no,06:04,morning,chain,cbd,mid,Friday,weekday,no,23,6,2017
+nakumatt,1,1,280,1000,720,cash,no,no,no,yes,no,no,no,23/06/2017,no,07:09,morning,chain,cbd,mid,Friday,weekday,no,23,6,2017
+nakumatt,4,2,280,1000,720,cash,no,yes,no,no,yes,no,no,19/06/2017,no,18:25,evening,chain,cbd,mid,Tuesday,weekday,no,19,6,2017
+neema,3,1,205,500,295,cash,yes,no,no,no,no,no,no,23/06/2017,no,20:49,night,small,cbd,mid,Friday,weekday,no,23,6,2017
+nakumatt,1,1,545,545,0,mpesa,no,no,no,no,no,yes,no,2/8/2017,yes,20:30,night,chain,junction,mid,Wednesday,weekday,no,2,8,2017
+chandarana,4,2,1714,1714,0,card,yes,no,no,no,yes,no,no,11/7/2017,yes,20:10,night,chain,adlife,high,Tuesday,weekday,no,11,7,2017
+nakumatt,1,1,55,200,145,cash,no,no,yes,no,no,no,no,22/06/2017,no,01:58,afternoon,chain,cbd,mid,Thursday,weekday,no,22,6,2017
+tuskys,2,1,156,200,4,cash,yes,no,no,no,no,no,no,30/06/2017,no,20:21,night,chain,cbd,mid,Friday,weekday,no,30,6,2017
+ukwala,1,1,30,100,70,cash,no,yes,no,no,no,no,no,23/06/2017,no,09:37,morning,chain,cbd,mid,Friday,weekday,no,23,6,2017
+nakumatt,2,3,190,500,310,cash,no,yes,yes,no,yes,no,no,23/06/2013,no,20:43,night,chain,cbd,mid,Friday,weekday,yes,23,6,2013
+ukwala,1,1,60,110,50,cash,no,no,no,no,no,yes,no,22/06/2017,no,18:48,evening,chain,cbd,mid,Thursday,weekday,no,22,6,2017
+ukwala,2,1,193,200,7,cash,yes,no,no,no,no,no,no,17/06/2016,no,12:07,afternoon,chain,cbd,mid,Sunday,weekend,no,17,6,2016
+ukwala,1,1,26,50,24,cash,no,no,yes,no,no,no,no,17/06/2017,no,12:07,afternoon,chain,cbd,mid,Sunday,weekend,no,17,6,2017
+ukwala,1,1,90,500,410,cash,yes,no,no,no,no,no,no,17/06/2017,no,11:57,morning,chain,cbd,mid,Sunday,weekend,no,17,6,2017
+nakumatt,1,1,60,100,40,cash,no,no,yes,no,no,no,no,22/06/2017,no,12:59,afternoon,chain,karen,high,Thursday,weekday,no,22,6,2017
+nakumatt,1,1,55,60,5,cash,no,no,yes,no,no,no,no,17/07/2017,no,11:26,morning,chain,cbd,mid,Monday,weekday,yes,17,7,2017
+nakumatt,1,1,175,1000,825,cash,no,no,no,yes,no,no,no,15/06/2017,no,22:07,night,chain,cbd,mid,Sunday,weekend,yes,15,6,2017
+nakumatt,1,1,75,100,25,cash,yes,no,no,no,no,no,no,16/06/2017,no,14:15,afternoon,chain,karen,high,Monday,weekday,no,16,6,2017
+nakumatt,1,1,49,60,11,cash,yes,no,no,no,no,no,no,14/06/2017,no,19:19,night,chain,karen,high,saturday,weekend,no,14,6,2017
+nakumatt,1,1,50,100,50,cash,no,no,no,no,no,yes,no,16/06/2017,no,16:24,evening,chain,karen,high,Friday,weekday,no,16,6,2017
+nakumatt,2,1,230,230,0,cash,yes,no,no,no,no,no,no,11/6/2017,no,19:58,night,chain,karen,high,Monday,weekday,no,11,6,2017
+nakumatt,2,2,1155,1205,50,cash,yes,no,no,no,no,yes,no,3/6/2017,no,09:03,morning,chain,karen,high,saturday,weekend,no,3,6,2017
+eastmatt,1,1,98,98,0,card,no,no,no,no,no,yes,no,14/06/2017,no,08:56,morning,chain,cbd,mid,Thursday,weekday,no,14,6,2017
+nakumatt,2,1,162,1000,838,cash,no,no,yes,no,no,no,no,17/06/2017,no,11:10,morning,chain,cbd,mid,saturday,weekend,yes,17,6,2017
+nakumatt,2,2,122,1000,878,cash,no,yes,yes,no,no,no,no,13/06/2017,no,16:02,evening,chain,karen,high,Wednesday,weekday,no,13,6,2017
+nakumatt,4,2,164,200,36,cash,no,yes,yes,no,no,no,no,17/06/2017,no,11:00,morning,chain,karen,high,saturday,weekend,no,17,6,2017
+nakumatt,1,1,99,100,1,cash,no,no,yes,no,no,no,no,16/06/2017,no,09:36,morning,chain,karen,high,Friday,weekday,no,16,6,2017
+nakumatt,1,2,160,160,0,points,no,no,no,no,yes,yes,no,31/05/2017,no,13:09,afternoon,chain,karen,high,Monday,weekday,no,31,5,2017
+ukwala,2,1,50,50,0,cash,no,yes,no,no,no,no,no,16/06/2017,no,08:43,morning,chain,cbd,mid,Friday,weekday,no,16,6,2017
+tuskys,3,3,395,395,0,card,no,yes,yes,no,yes,no,no,17/06/2017,no,18:23,evening,chain,cbd,mid,saturday,weekend,no,17,6,2017
+tuskys,2,2,165,170,5,cash,no,no,no,yes,no,yes,no,17?06/2017,no,17:27,evening,chain,cbd,mid,saturday,weekend,no,17?06,2017,
+karrymart,2,1,160,200,40,cash,no,yes,no,no,no,no,no,17/06/2017,no,10:58,morning,chain,cbd,mid,saturday,weekend,no,17,6,2017
+karrymart,3,1,342,500,158,cash,yes,no,no,no,no,no,no,17/06/2017,no,16:30,evening,chain,cbd,mid,saturday,weekend,no,17,6,2017
+chandarana,1,1,90,100,10,cash,yes,no,no,no,no,no,no,15/06/2017,no,15:01,afternoon,chain,karen,high,Thursday,weekend,no,15,6,2017
+nakumatt,5,4,424,424,0,card,no,yes,yes,no,yes,yes,no,17/06/2017,no,17:08,evening,chain,karen,high,saturday,weekend,no,17,6,2017
+nakumatt,1,1,71,500,429,cash,yes,no,no,no,no,no,no,17/06/2017,no,00:02,midnight,chain,cbd,mid,saturday,weekend,no,17,6,2017
+tuskys,2,1,110,200,90,cash,no,no,yes,no,no,no,no,17/06/2017,no,18:27,evening,chain,cbd,mid,saturday,weekend,no,17,6,2017
+nakumatt,1,1,895,1000,105,cash,no,no,no,no,no,yes,no,19/06/2017,no,12:42,afternoon,chain,cbd,mid,Monday,weekday,no,19,6,2017
+acacia,1,1,44,50,6,cash,yes,no,no,no,no,no,no,24/06/2017,no,15:38,afternoon,small,saika,mid,saturday,weekend,no,24,6,2017
+nakumatt,1,1,275,300,25,cash,yes,no,no,no,no,no,no,22/06/2017,no,07:29,morning,chain,cbd,mid,Thursday,weekday,yes,22,6,2017
+nakumatt,2,2,115,115,0,mpesa,no,no,yes,yes,no,no,no,22/06/2017,no,07:25,morning,chain,cbd,mid,Thursday,weekday,yes,22,6,2017
+nakumatt,1,1,90,90,0,cash,yes,no,no,no,no,no,no,22/06/2017,yes,07:26,morning,chain,junction,mid,Thursday,weekday,no,22,6,2017
+nakumatt,2,2,2745,3000,255,cash,yes,no,no,no,yes,no,no,19/06/2017,no,16:39,evening,chain,cbd,mid,Monday,weekday,no,19,6,2017
+nakumatt,1,1,55,55,0,cash,no,no,yes,no,no,no,no,19/06/2017,no,13:55,afternoon,chain,cbd,mid,Monday,weekday,no,19,6,2017
+nakumatt,1,1,65,100,35,cash,no,no,yes,no,no,no,no,19/06/2017,no,18:42,evening,chain,cbd,mid,Monday,weekday,no,19,6,2017
+nakumatt,1,1,35,200,165,cash,no,no,yes,no,no,no,no,1/6/2017,no,14:22,afternoon,chain,cbd,mid,Thursday,weekday,no,1,6,2017
+nakumatt,1,1,50,500,450,cash,no,no,yes,no,no,no,no,19/06/2017,no,15:13,afternoon,chain,cbd,mid,Monday,weekday,no,19,6,2017
+ukwala,1,1,21,100,79,cash,no,no,yes,no,no,no,no,24/05/2017,no,14:00,afternoon,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+karrymart,1,1,75,1000,925,cash,no,no,yes,no,no,no,no,23/06/2017,no,22:32,night,chain,cbd,mid,Friday,weekday,no,23,6,2017
+karrymart,2,1,183,500,317,cash,yes,no,no,no,no,no,no,23/06/2017,no,21:28,night,chain,cbd,mid,Friday,weekday,no,23,6,2017
+tuskys,3,3,430,1000,570,cash,yes,yes,no,no,yes,no,no,2/6/2017,no,14:52,afternoon,chain,cbd,mid,Friday,weekday,no,2,6,2017
+eastmatt,1,1,180,200,20,cash,yes,no,no,no,no,no,no,19/06/2017,no,08:06,morning,chain,cbd,mid,Monday,weekday,no,19,6,2017
+nakumatt,2,2,525,525,0,mpesa,yes,no,no,yes,no,no,no,23/06/2017,no,23:17,night,chain,cbd,mid,Friday,weekday,yes,23,6,2017
+tuskys,1,1,60,60,0,cash,no,no,yes,no,no,no,no,23/07/2017,no,16:42,evening,chain,karasha,mid,Sunday,weekend,no,23,7,2017
+tuskys,1,1,94,100,6,cash,yes,no,no,no,no,no,no,23/07/2017,no,18:21,evening,chain,cbd,mid,Sunday,weekend,no,23,7,2017
+nakumatt,6,4,1433,2000,567,cash,yes,yes,yes,no,yes,no,no,27/06/2017,yes,10:36,morning,chain,junction,mid,Tuesday,weekday,no,27,6,2017
+tuskys,1,1,36,100,64,cash,no,yes,no,no,no,no,no,10/7/2017,no,20:58,night,chain,cbd,mid,Friday,weekday,no,10,7,2017
+zucchini,4,2,1226,1226,0,card,yes,no,no,no,yes,no,no,13/07/2017,yes,08:27,morning,chain,junction,mid,Thursday,weekday,no,13,7,2017
+nakumatt,1,1,28,28,0,cash,no,no,yes,no,no,no,no,15/06/2017,no,12:46,afternoon,chain,karen,high,Thursday,weekday,no,15,6,2017
+tumaini,2,1,290,300,10,cash,no,yes,no,no,no,no,no,27/09/2017,no,16:30,evening,chain,ongata rongai,mid,Wednesday,weekday,no,27,9,2017
+tuskys,16,5,2835,3000,165,cash,yes,yes,yes,yes,yes,no,no,1/6/2017,yes,13:05,afternoon,chain,greenspan,mid,Thursday,weekday,no,1,6,2017
+tuskys,1,1,760,1000,240,cash,yes,no,no,no,no,no,no,15/06/2017,no,18:57,evening,chain,cbd,mid,Thursday,weekday,no,15,6,2017
+tuskys,5,3,696,1000,304,cash,yes,no,yes,yes,no,no,no,30/06/2017,no,19:39,night,chain,cbd,mid,Friday,weekday,no,30,6,2017
+tuskys,21,5,12475,12475,0,card,yes,yes,yes,yes,yes,no,no,10/7/2017,no,21:36,night,chain,cbd,mid,Monday,weekday,no,10,7,2017
+cleanshelf,8,2,1225,1250,25,cash,yes,no,no,no,no,yes,no,22/09/2017,no,17:02,evening,chain,ongata rongai,mid,Friday,weekday,no,22,9,2017
+acacia,1,1,45,50,5,cash,no,yes,no,no,no,no,no,24/06/2017,no,18:17,evening,small,saika,mid,saturday,weekend,no,24,6,2017
+tuskys,1,1,85,100,15,cash,no,yes,no,no,no,no,no,29/05/2017,no,11:36,morning,chain,cbd,mid,Monday,weekday,no,29,5,2017
+tuskys,22,5,3834,4000,166,cash,yes,yes,yes,yes,yes,no,no,18/06/2017,no,10:09,morning,chain,eastlands,mid,Sunday,weekend,no,18,6,2017
+nakumatt,2,2,180,200,20,cash,no,yes,yes,no,no,no,no,5/7/2017,no,19:11,night,chain,cbd,mid,Wednesday,weekday,yes,5,7,2017
+nakumatt,1,1,60,100,40,cash,no,yes,no,no,no,no,no,19/06/2017,no,14:25,afternoon,chain,cbd,mid,Monday,weekday,no,19,6,2017
+nakumatt,1,1,135,1000,865,cash,no,yes,no,no,no,no,no,30/05/2017,yes,18:14,evening,chain,junction,mid,Tuesday,weekday,no,30,5,2017
+nakumatt,2,2,95,95,0,cash,no,yes,yes,no,no,no,no,23/05/2017,no,18:25,evening,chain,cbd,mid,Tuesday,weekday,yes,23,5,2017
+ukwala,4,2,293,500,207,cash,yes,no,no,yes,no,no,no,24/05/2017,no,20:00,night,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+ukwala,1,1,58,100,42,cash,no,no,no,yes,no,no,no,24/05/2017,no,08:34,morning,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+karrymart,1,1,90,200,110,cash,no,no,no,yes,no,no,no,23/05/2017,no,07:33,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,3,250,500,250,cash,yes,yes,yes,no,no,no,no,23/05/2017,no,05:23,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,105,500,395,cash,no,yes,no,no,no,no,no,23/05/2017,no,06:57,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,299,500,201,cash,yes,no,no,no,no,no,no,23/05/2017,no,13:23,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,20,20,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,06:31,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,05:33,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,200,170,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:23,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,56,60,4,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:10,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,115,1000,885,cash,no,no,yes,no,no,no,no,23/05/2017,no,07:18,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:10,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,48,100,52,cash,no,yes,no,no,no,no,no,23/05/2017,no,06:27,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:29,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,90,100,10,cash,no,yes,no,no,no,no,no,23/05/2017,no,05:20,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,52,500,448,cash,no,yes,no,no,no,no,no,23/05/2017,no,08:28,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,50,20,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:48,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,80,200,120,cash,yes,yes,no,no,no,no,no,23/05/2017,no,07:03,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,280,300,20,cash,yes,no,no,no,no,no,no,23/05/2017,no,05:49,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,50,25,cash,no,yes,no,no,no,no,no,23/05/2017,no,10:21,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,50,10,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:29,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,73,100,27,cash,no,yes,no,no,no,no,no,23/05/2017,no,08:10,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,35,1005,970,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:45,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,65,100,35,cash,yes,no,no,no,no,no,no,23/05/2017,no,05:53,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,70,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,08:30,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,100,75,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:33,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,15:07,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,285,500,115,cash,yes,yes,no,no,no,no,no,23/05/2017,no,06:09,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,170,200,30,cash,no,yes,no,yes,no,no,no,23/05/2017,no,08:21,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,38,100,62,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:43,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,100,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:56,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,35,40,5,cash,no,yes,no,no,no,no,no,23/05/2017,no,14:38,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,500,475,cash,no,no,no,yes,no,no,no,23/05/2017,no,06:32,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+chandarana,1,1,225,400,175,cash,no,no,no,yes,no,no,no,23/05/2017,yes,14:12,afternoon,chain,yaya,mid,Tuesday,weekday,no,23,5,2017
+tumaini,4,4,343,500,57,cash,no,yes,yes,yes,no,yes,no,16/10/2017,no,14:13,afternoon,chain,ongata rongai,mid,Monday,weekday,no,16,10,2017
+karrymart,1,1,55,100,45,cash,no,no,yes,no,no,no,no,23/05/2017,no,21:27,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,250,300,50,cash,yes,no,no,no,no,no,no,21/05/2017,no,12:00,midnight,chain,cbd,mid,Sunday,weekend,no,21,5,2017
+nakumatt,2,3,1130,1130,0,mpesa,no,no,no,yes,yes,yes,no,22/08/2017,yes,18:50,evening,chain,junction,mid,Tuesday,weekday,no,22,8,2017
+tuskys,1,1,92,500,408,cash,no,no,yes,no,no,no,no,24/05/2017,no,13:44,afternoon,chain,cbd,mid,Tuesday,weekday,no,24,5,2017
+ukwala,7,4,434,1000,566,cash,yes,yes,yes,yes,no,no,no,25/05/2017,no,19:44,night,chain,cbd,mid,Tuesday,weekday,no,25,5,2017
+nakumatt,4,4,1359,1359,0,mpesa,yes,yes,yes,no,yes,no,no,7/4/2017,no,20:16,night,chain,cbd,mid,Friday,weekday,yes,7,4,2017
+chandarana,2,2,166,200,34,cash,yes,no,no,yes,no,no,no,17/05/2017,yes,14:48,afternoon,chain,adlife,high,Wednesday,weekday,no,17,5,2017
+ukwala,1,1,65,100,35,cash,no,no,yes,no,no,no,no,23/05/2017,no,14:22,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+neema,8,1,1105,2000,895,cash,no,no,no,yes,no,no,no,10/6/2017,no,11:32,morning,small,kangundo road,mid,saturday,weekend,no,10,6,2017
+nakumatt,1,1,20,50,30,cash,no,yes,no,no,no,no,no,15/05/2017,yes,14:30,afternoon,chain,junction,mid,Monday,weekday,no,15,5,2017
+nakumatt,3,3,388,388,0,card,no,yes,no,no,yes,yes,no,29/05/2017,yes,11:30,morning,chain,prestige,high,Monday,weekday,no,29,5,2017
+nakumatt,1,1,60,200,140,cash,yes,no,no,no,no,no,no,24/05/2017,yes,18:21,morning,chain,junction,mid,Wednesday,weekday,no,24,5,2017
+tuskys,2,2,129,1000,871,cash,yes,no,yes,no,no,no,no,9/6/2017,no,21:58,night,chain,cbd,mid,Friday,weekday,no,9,6,2017
+tuskys,1,1,99,99,0,cash,no,no,yes,no,no,no,no,9/6/2017,no,20:10,night,chain,cbd,mid,Friday,weekday,no,9,6,2017
+eastmatt,4,3,208,250,42,cash,yes,yes,yes,no,no,no,no,9/6/2017,no,19:25,night,chain,cbd,mid,Friday,weekday,no,9,6,2017
+ukwala,1,1,105,150,45,cash,no,no,no,yes,no,no,no,9/6/2017,no,17:51,evening,chain,cbd,mid,Friday,weekday,no,9,6,2017
+ukwala,1,1,90,100,10,cash,yes,no,no,no,no,no,no,9/6/2017,no,16:58,evening,chain,cbd,mid,Friday,weekday,no,9,6,2017
+tuskys,1,1,35,40,5,cash,no,no,yes,no,no,no,no,9/6/2017,no,20:53,night,chain,cbd,mid,Friday,weekday,no,9,6,2017
+ukwala,1,1,90,100,10,cash,yes,no,no,no,no,no,no,9/6/2017,no,16:58,evening,chain,cbd,mid,Friday,weekday,no,9,6,2017
+ukwala,1,2,330,1000,670,cash,no,no,no,yes,yes,no,no,9/6/2017,no,19:09,night,chain,cbd,mid,Friday,weekday,no,9,6,2017
+ukwala,3,2,320,500,180,cash,no,yes,yes,no,no,no,no,9/6/2017,no,13:47,afternoon,chain,cbd,mid,Friday,weekday,no,9,6,2017
+tuskys,2,1,107,150,43,cash,yes,no,no,no,no,no,no,9/6/2017,no,22:00,night,chain,cbd,mid,Friday,weekday,no,9,6,2017
+ukwala,1,1,90,200,180,cash,yes,no,no,no,no,no,no,9/6/2017,no,18:58,evening,chain,cbd,mid,Friday,weekday,no,9,6,2017
+ukwala,2,3,70,200,130,cash,no,yes,yes,no,yes,no,no,9/6/2017,no,14:17,afternoon,chain,cbd,mid,Friday,weekday,no,9,6,2017
+ukwala,2,1,126,140,14,cash,yes,no,no,no,no,no,no,9/6/2017,no,19:04,night,chain,cbd,mid,Friday,weekday,no,9,6,2017
+ukwala,1,1,90,200,180,cash,yes,no,no,no,no,no,no,9/6/2017,no,18:58,evening,chain,cbd,mid,Friday,weekday,no,9,6,2017
+tuskys,4,3,315,315,0,cash,yes,no,no,yes,no,yes,no,9/6/2017,no,20:00,night,chain,cbd,mid,Friday,weekday,no,9,6,2017
+ukwala,1,1,29,200,171,cash,no,no,no,yes,no,no,no,9/6/2017,no,14:34,afternoon,chain,cbd,mid,Friday,weekday,no,9,6,2017
+ukwala,1,1,60,100,40,cash,yes,no,no,no,no,no,no,9/6/2017,no,19:23,night,chain,cbd,mid,Friday,weekday,no,9,6,2017
+tuskys,3,3,95,500,405,cash,no,yes,yes,no,no,no,no,9/6/2017,no,15:07,afternoon,chain,cbd,mid,Friday,weekday,no,9,6,2017
+tuskys,2,2,113,500,387,cash,yes,yes,no,no,no,no,no,9/6/2017,no,21:28,night,chain,cbd,mid,Friday,weekday,no,9,6,2017
+nakumatt,2,2,360,500,140,cash,no,yes,no,no,yes,no,no,19/1/2017,no,23:24,night,chain,cbd,mid,Thursday,weekday,yes,19,1,2017
+nakumatt,3,2,273,280,7,cash,yes,yes,no,no,no,no,no,23/05/2017,yes,20:13,night,chain,junction,mid,Tuesday,weekday,no,23,5,2017
+acacia,1,1,90,100,10,cash,yes,no,no,no,no,no,no,24/06/2017,no,11:00,morning,small,saika,mid,saturday,weekend,no,24,6,2017
+tuskys,1,1,24,30,6,cash,no,no,yes,no,no,no,no,18/06/2017,no,17:36,evening,chain,cbd,mid,Sunday,weekend,no,18,6,2017
+nakumatt,1,1,55,55,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,15:39,afternoon,chain,cbd,mid,Tuesday,weekday,yes,23,5,2017
+nakumatt,1,1,55,60,5,cash,no,no,yes,no,no,no,no,24/05/2017,no,21:28,night,chain,cbd,mid,Wednesday,weekday,yes,24,5,2017
+chandarana,2,2,150,150,0,cash,yes,no,no,no,yes,no,no,23/05/2017,yes,14:19,afternoon,chain,adlife,high,Tuesday,weekday,no,23,5,2017
+ukwala,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,20:15,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+nakumatt,1,1,340,1000,660,cash,yes,no,no,no,no,no,no,30/06/2017,no,16:41,evening,chain,cbd,mid,Friday,weekday,yes,30,6,2017
+tuskys,1,1,32,1000,968,cash,no,no,yes,no,no,no,no,24/05/2017,no,21:58,night,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+nakumatt,13,3,2657,3000,343,cash,yes,yes,no,no,yes,no,no,19/01/2017,yes,20:51,night,chain,junction,mid,Thursday,weekday,no,19,1,2017
+naivas,17,5,2806,3000,194,cash,yes,yes,yes,yes,yes,no,no,23/05/2017,no,14:09,afternoon,chain,ruaraka,mid,Tuesday,weekday,no,23,5,2017
+tuskys,2,2,220,250,30,cash,yes,no,yes,no,no,no,no,18/06/2017,no,14:54,afternoon,chain,eastlands,mid,Sunday,weekend,no,18,6,2017
+nakumatt,3,2,129,150,21,cash,yes,no,no,no,no,yes,no,16/06/2017,no,04:17,morning,chain,cbd,mid,Friday,weekday,yes,16,6,2017
+zucchini,3,1,777,1000,223,cash,yes,no,no,no,no,no,no,26/05/2017,yes,20:46,night,chain,karen,high,Friday,weekday,no,26,5,2017
+tuskys,1,1,55,100,45,cash,no,no,yes,no,no,no,no,24/05/2017,no,13:00,afternoon,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+eastmatt,2,1,97,100,3,cash,no,no,yes,no,no,no,no,24/05/2017,no,07:06,morning,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+karrymart,1,1,59,50,1,cash,no,yes,no,no,no,no,no,23/05/2017,no,20:22,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,200,140,cash,no,yes,no,no,no,no,no,23/05/2017,no,19:28,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+naivas,1,1,90,100,10,cash,yes,no,no,no,no,no,no,19/05/2017,no,15:22,afternoon,chain,umoja,mid,Friday,weekday,no,19,5,2017
+nakumatt,1,1,60,100,40,cash,no,no,yes,no,no,no,no,24/05/2017,no,21:48,night,chain,cbd,mid,Wednesday,weekday,yes,24,5,2017
+karrymart,2,2,140,200,60,cash,no,no,yes,yes,no,no,no,23/05/2017,no,17:42,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,30,5,cash,no,no,yes,no,no,no,no,23/05/2017,no,15:52,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,2,205,300,95,cash,yes,yes,no,no,no,no,no,23/05/2017,no,12:14,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,50,25,cash,no,no,yes,no,no,no,no,23/05/2017,no,15:28,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,60,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,08:12,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,50,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,08:09,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,40,15,cash,no,yes,no,no,no,no,no,23/05/2017,no,15:09,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,2,290,300,10,cash,yes,no,no,yes,no,no,no,23/05/2017,no,16:53,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,100,50,cash,no,no,yes,no,no,no,no,23/05/2017,no,13:39,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,35,100,65,cash,no,yes,no,no,no,no,no,23/05/2017,no,13:44,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,100,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,13:28,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,40,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,12:56,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,80,500,420,cash,no,yes,no,no,no,no,no,23/05/2017,no,15:41,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+tuskys,1,1,270,1000,730,cash,yes,no,no,no,no,no,no,24/05/2017,no,09:42,morning,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+nakumatt,14,5,2183,2183,0,card,yes,yes,yes,no,yes,yes,no,15/01/2017,no,18:09,evening,chain,mega,mid,Sunday,weekend,no,15,1,2017
+tuskys,2,1,447,1000,583,cash,no,no,no,no,no,yes,no,24/05/2017,no,20:21,night,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+ukwala,1,1,15,100,85,cash,no,no,no,no,no,yes,no,24/05/2017,no,14:09,afternoon,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+tuskys,1,1,90,90,0,cash,yes,no,no,no,no,no,no,25/05/2017,no,20:21,night,chain,cbd,mid,Thursday,weekday,no,25,5,2017
+naivas,2,3,155,200,45,cash,no,yes,no,no,yes,yes,no,20/05/2017,no,16:11,evening,chain,umoja,mid,saturday,weekend,no,20,5,2017
+nakumatt,1,1,65,100,35,cash,yes,no,no,no,no,no,no,2/7/2017,yes,15:47,afternoon,chain,junction,mid,Sunday,weekend,no,2,7,2017
+tuskys,2,1,120,200,80,cash,yes,no,no,no,no,no,no,23/05/2017,no,17:36,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+tuskys,2,1,455,500,5,cash,yes,no,no,no,no,no,no,24/05/2015,no,12:56,afternoon,chain,cbd,mid,Wednesday,weekday,no,24,5,2015
+nakumatt,2,2,160,160,0,cash,no,no,yes,no,no,yes,no,2/7/2017,yes,17:15,evening,chain,junction,mid,Sunday,weekend,no,2,7,2017
+tuskys,1,1,100,500,400,cash,yes,no,no,no,no,no,no,23/06/2017,no,17:56,evening,chain,cbd,mid,Friday,weekday,no,23,6,2017
+nakumatt,1,1,210,1000,790,cash,no,no,yes,no,no,no,no,24/06/2017,no,18:53,evening,chain,karen,high,saturday,weekend,no,24,6,2017
+magna,1,1,230,250,20,cash,no,yes,no,no,no,no,no,25/06/2017,no,20:14,night,small,cbd,mid,Sunday,weekend,no,25,6,2017
+nakumatt,3,1,381,1000,619,cash,yes,no,no,no,no,no,no,28/08/2017,yes,21:06,night,chain,junction,mid,Monday,weekday,no,28,8,2017
+large neema,2,1,130,200,70,cash,yes,no,no,no,no,no,no,29/05/2017,no,19:25,night,small,kangundo road,mid,Monday,weekday,no,29,5,2017
+nakumatt,1,1,1250,1250,0,mpesa,no,no,no,yes,no,no,no,28/08/2017,yes,21:03,night,chain,junction,mid,Monday,weekday,no,28,8,2017
+karrymart,2,1,100,500,400,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:56,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,2,200,500,300,cash,yes,yes,no,no,no,no,no,23/05/2017,no,07:28,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:32,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,143,200,57,cash,no,yes,no,yes,no,no,no,23/05/2017,no,07:32,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,115,150,35,cash,no,yes,no,no,no,no,no,23/05/2017,no,06:46,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,100,60,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:37,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,07:28,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,175,1000,825,cash,yes,no,no,no,no,no,no,23/05/2017,no,05:30,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,145,150,5,cash,yes,no,no,no,no,no,no,23/05/2017,no,04:10,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,yes,no,no,no,no,no,no,23/05/2017,no,05:23,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,2,105,200,94.75,cash,yes,no,no,no,no,no,no,23/05/2017,no,05:48,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,200,140,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:07,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,yes,no,no,no,no,no,no,23/05/2017,no,05:54,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,3,129,150,21,cash,yes,yes,yes,no,no,no,no,23/05/2017,no,06:25,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,12:04,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,yes,no,no,no,no,no,no,23/05/2017,no,21:04,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,60,10,cash,yes,no,no,no,no,no,no,23/05/2017,no,08:26,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,122,200,78.4,cash,yes,no,yes,no,no,no,no,23/05/2017,no,08:23,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:40,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,100,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,15:03,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,74,75,0.8,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:08,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,2,253,500,247,cash,yes,no,no,yes,no,no,no,23/05/2017,no,20:39,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,56,100,43.6,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:52,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,129,200,71.4,cash,yes,no,yes,no,no,no,no,23/05/2017,no,06:19,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,170,500,330,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:29,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,100,50,cash,no,no,yes,no,no,no,no,23/05/2017,no,10:19,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,50,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:27,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,90,500,410,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:44,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,75,100,25,cash,yes,no,no,no,no,no,no,23/05/2017,no,08:49,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,59,500,441.28,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:59,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,50,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,06:12,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,500,420,cash,no,yes,no,no,no,no,no,23/05/2017,no,10:19,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,50,10,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:21,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,95,100,5,cash,yes,no,yes,no,no,no,no,23/05/2017,no,06:59,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,65,100,30,cash,yes,yes,no,no,no,no,no,23/05/2017,no,08:28,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,106,210,103.6,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:03,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,35,40,5,cash,no,yes,no,no,no,no,no,23/05/2017,no,08:05,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,20,20,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:01,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,09:11,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,3,324,1000,676.25,cash,yes,yes,yes,no,no,no,no,23/05/2017,no,06:44,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,55,105,50,cash,no,no,yes,no,no,no,no,23/05/2017,no,13:51,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,115,200,85,cash,no,no,yes,no,no,no,no,23/05/2017,no,14:14,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,80,200,120,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:09,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,50,10,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:10,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,111,200,89,cash,yes,no,no,no,no,no,no,23/05/2017,no,05:59,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,100,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,16:39,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,1000,900,cash,yes,no,no,no,no,no,no,23/05/2017,no,08:18,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,56,100,44,cash,yes,no,no,no,no,no,no,23/05/2017,no,05:54,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,70,100,30,cash,yes,no,no,no,no,no,no,23/05/2017,no,05:52,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,123,130,7,cash,yes,yes,no,no,no,no,no,23/05/2017,no,08:09,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,2,270,1000,729.75,cash,yes,no,no,yes,no,no,no,23/05/2017,no,06:09,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,100,75,cash,no,no,no,yes,no,no,no,23/05/2017,no,08:28,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,35,50,15,cash,no,yes,no,no,no,no,no,23/05/2017,no,08:37,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,200,150,cash,yes,no,no,no,no,no,no,23/05/2017,no,08:20,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,30,5,cash,no,no,yes,no,no,no,no,23/05/2017,no,17:31,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,100,70,cash,no,yes,no,no,no,no,no,23/05/2017,no,08:50,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,101,150,49,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:20,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,90,100,10,cash,no,yes,no,no,no,no,no,23/05/2017,no,19:42,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,60,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,05:39,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,108,150,42,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:28,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,56,100,44,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:38,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,100,30,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:07,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,155,200,45,cash,no,yes,yes,no,no,no,no,23/05/2017,no,06:11,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,500,430,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:49,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,40,100,60,cash,no,no,yes,yes,no,no,no,23/05/2017,no,06:49,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,97,500,403.4,cash,yes,no,no,no,no,no,no,23/05/2017,no,05:52,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,200,120,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:09,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,100,60,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:27,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,73,100,26.8,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:50,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,127,200,73,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:51,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,39,100,61.5,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:51,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,200,130,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:09,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,35,200,165,cash,no,yes,no,no,no,no,no,23/05/2017,no,08:01,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,60,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,04:46,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,2,114.6,200,85.4,cash,yes,no,yes,no,no,no,no,23/05/2017,no,07:43,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:31,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,100,30,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:18,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,115,120,5,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:57,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,100,60,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:00,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,91,500,409,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:02,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,100,60,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:12,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,90,90,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:55,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,90,100,10,cash,yes,no,no,no,no,no,no,23/05/2017,no,07:05,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:32,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,70,10,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:57,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,60,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,07:07,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,40,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,06:33,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,56,56,0,cash,no,yes,no,yes,no,no,no,23/05/2017,no,06:26,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,30,5,cash,no,no,no,yes,no,no,no,23/05/2017,no,07:39,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,182,200,18,cash,yes,no,yes,no,no,no,no,23/05/2017,no,08:12,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,5,2,410,500,90,cash,no,yes,yes,no,no,no,no,23/05/2017,no,08:08,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100.1,1000,899.9,cash,yes,no,no,no,no,no,no,23/05/2017,no,13:27,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,2,105,200,15,cash,yes,no,yes,no,no,no,no,23/05/2017,no,13:09,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,100,50,cash,yes,no,no,no,no,no,no,23/05/2017,no,11:46,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,50,10,cash,no,yes,no,no,no,no,no,23/05/2017,no,06:53,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,2,30,30,0,cash,yes,no,no,yes,no,no,no,23/05/2017,no,13:33,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,75,100,25,cash,yes,no,no,no,no,no,no,23/05/2017,no,10:39,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,99.6,500,400.4,cash,yes,no,no,no,no,no,no,23/05/2017,no,10:38,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,500,440,cash,no,no,yes,no,no,no,no,23/05/2017,no,13:59,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,105,500,395,cash,no,no,yes,yes,no,no,no,23/05/2017,no,16:54,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,20,20,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,17:05,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,25,5,cash,no,no,yes,no,no,no,no,23/05/2017,no,15:10,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,120,150,30,cash,no,yes,yes,no,no,no,no,23/05/2017,no,12:21,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,45,500,455,cash,no,no,no,yes,no,no,no,23/05/2017,no,10:20,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,110,110,0,cash,no,yes,yes,no,no,no,no,23/05/2017,no,13:31,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,90,100,10,cash,no,yes,no,no,no,no,no,23/05/2017,no,06:55,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,35,50,15,cash,no,yes,no,no,no,no,no,23/05/2017,no,18:22,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,60,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,11:49,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,68,100,32,cash,yes,no,no,no,no,no,no,23/05/2017,no,09:17,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,90,100,10,cash,yes,no,no,no,no,no,no,23/05/2017,no,11:44,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,50,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,09:49,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+acacia,1,1,580,1000,420,cash,no,no,no,no,no,yes,no,22/05/2017,no,15:07,afternoon,small,saika,mid,Monday,weekday,no,22,5,2017
+Tuskys,1,1,95,95,0,cash,yes,no,no,no,no,no,no,16/05/2017,no,18:31,evening,chain,cbd,mid,Tuesday,weekday,no,16,5,2017
+Tuskys,2,1,119,200,81,cash,yes,no,no,no,no,no,no,20/05/2017,no,16:26,afternoon,chain,Donholm,mid,saturday,weekend,no,20,5,2017
+Tuskys,1,1,416,500,84,cash,yes,no,no,no,no,no,no,20/05/2017,no,20:28,night,chain,Donholm,mid,saturday,weekend,no,20,5,2017
+Tuskys,3,2,412,500,88,cash,yes,no,no,yes,no,no,no,20/05/2017,no,12:56,afternoon,chain,Donholm,mid,saturday,weekend,no,20,5,2017
+Tuskys,2,1,223,100,777,cash,yes,no,no,no,no,no,no,13/05/2017,no,20:50,night,chain,Donholm,mid,saturday,weekend,no,13,5,2017
+Tuskys,5,2,220,300,80,cash,no,yes,yes,no,no,no,no,18/05/2017,no,10:43,morning,chain,Donholm,mid,Thursday,weekday,no,18,5,2017
+Tuskys,3,1,720,1000,280,cash,no,no,no,no,no,yes,no,19/05/2017,no,12:06,afternoon,chain,Donholm,mid,Friday,weekday,no,19,5,2017
+Tuskys,7,3,542,1000,458,cash,yes,no,yes,yes,no,no,no,21/05/2017,no,20:41,night,chain,Donholm,mid,Sunday,weekend,no,21,5,2017
+Tuskys,2,1,110,110,0,cash,no,no,no,no,no,no,no,14/05/2017,no,08:53,morning,chain,Donholm,mid,Sunday,weekday,no,14,5,2017
+Tuskys,4,1,680,1650,970,cash,no,no,no,no,no,yes,no,22/05/2017,no,13:32,afternoon,chain,cbd,mid,Monday,weekday,no,22,5,2017
+Tuskys,2,2,260,270,10,cash,no,no,yes,no,no,yes,no,21/05/2017,no,17:30,afternoon,chain,cbd,mid,Sunday,weekend,no,21,5,2017
+Tuskys,4,1,199,200,1,cash,no,no,no,no,no,yes,no,21/05/2017,no,18:50,evening,chain,cbd,mid,Sunday,weekend,no,21,5,2017
+tuskys,3,1,357,500,43,cash,yes,no,no,no,no,no,no,21/05/2017,no,10:07,morning,chain,cbd,mid,Sunday,weekend,no,21,5,2017
+Tuskys,7,1,1245,1500,255,cash,no,no,no,no,no,yes,no,22/05/2017,no,10:51,morning,chain,gami,mid,Monday,weekday,no,22,5,2017
+Tuskys,2,1,351,400,49,cash,no,no,no,yes,no,no,no,16/05/2017,no,11:36,morning,chain,gami,mid,Tuesday,weekday,no,16,5,2017
+Tuskys,1,1,350,350,0,cash,no,no,no,yes,no,no,no,8/5/2017,no,15:49,afternoon,chain,gami,mid,Monday,weekday,no,8,5,2017
+Tuskys,9,2,1245,1500,255,cash,no,no,no,yes,no,yes,no,22/05/2017,no,10:51,morning,chain,gami,mid,Monday,weekday,no,22,5,2017
+Naivas,1,1,45,1000,955,cash,no,no,yes,no,no,no,no,22/05/2017,no,12:23,afternoon,chain,umoja,mid,monday,weekday,no,22,5,2017
+Naivas,1,1,60,1000,940,cash,no,no,no,yes,no,no,no,21/05/2017,no,17:54,evening,chain,umoja,mid,Sunday,weekend,no,21,5,2017
+Naivas,3,2,345,400,55,cash,no,yes,yes,no,no,no,no,19/05/2017,no,19:42,evening,chain,umoja,mid,Friday,weekday,no,19,5,2017
+Naivas,2,2,253,1000,747,cash,yes,no,no,yes,no,no,no,19/05/2017,no,15:50,afternoon,chain,umoja,mid,Friday,weekday,no,19,5,2017
+Naivas,4,2,321,325,4,cash,yes,no,yes,no,no,no,no,21/05/2017,no,19:54,night,chain,umoja,mid,Sunday,weekend,no,21,5,2017
+Naivas,1,1,360,1000,640,cash,yes,no,no,no,no,no,no,22/05/2017,no,14:00,afternoon,chain,umoja,mid,Monday,weekday,no,22,5,2017
+Naivas,2,2,164,200,36,cash,yes,no,yes,no,no,no,no,21/05/2017,no,16:43,evening,chain,umoja,mid,Sunday,weekend,no,21,5,2017
+Naivas,2,1,202,205,3,cash,yes,no,no,no,no,no,no,22/05/2017,no,14:36,afternoon,chain,umoja,mid,Monday,weekday,no,22,5,2017
+Naivas,3,1,35,50,15,cash,yes,no,no,no,no,no,no,14/05/2017,no,18:42,evening,chain,umoja,mid,Sunday,weekend,no,14,5,2017
+Naivas,2,1,239,500,261,cash,no,no,yes,no,no,no,no,17/05/2017,no,18:14,evening,chain,umoja,mid,Wednesday,weekday,no,17,5,2017
+Naivas,4,2,367,1000,633,cash,yes,no,yes,no,no,no,no,22/05/2017,no,14:26,afternoon,chain,umoja,mid,Monday,weekday,no,22,5,2017
+Naivas,1,1,46.05,50,3.95,cash,yes,no,no,no,no,no,no,16/05/2017,no,12:48,afternoon,chain,umoja,mid,Tuesday,weekday,no,16,5,2017
+Naivas,4,1,504,1000,496,cash,yes,no,no,no,no,no,no,19/05/2017,no,16:49,evening,chain,umoja,mid,Friday,weekday,no,19,5,2017
+Naivas,2,1,330,500,170,cash,yes,no,no,no,no,no,no,21/05/2017,no,18:15,evening,chain,umoja,mid,Sunday,weekend,no,21,5,2017
+Naivas,1,1,1000,800,200,cash,no,no,yes,no,no,no,no,20/01/2017,no,19:37,night,chain,umoja,mid,saturday,weekend,no,20,1,2017
+Selfridges,1,1,45,100,55,cash,no,no,no,yes,no,no,no,17/05/2017,no,14:37,afternoon,small,kiambu,mid,Wednesday,weekday,no,17,5,2017
+Selfridges,1,1,120,500,380,cash,no,no,no,no,no,yes,no,19/05/2017,no,16:09,evening,small,kiambu,mid,friday,weekday,no,19,5,2017
+tuskys,1,1,760,1000,240,cash,yes,no,no,no,no,no,no,15/06/2017,no,18:57,evening,chain,cbd,mid,Thursday,weekday,no,15,6,2017
+tuskys,5,3,696,1000,304,cash,yes,no,yes,yes,no,no,no,30/06/2017,no,19:39,night,chain,cbd,mid,Friday,weekday,no,30,6,2017
+tuskys,21,5,12475,12475,0,card,yes,yes,yes,yes,yes,no,no,10/7/2017,no,21:36,night,chain,cbd,mid,monday,weekday,no,10,7,2017
+cleanshelf,8,2,1225,1250,25,cash,yes,no,no,no,no,yes,no,22/09/2017,no,17:02,evening,chain,ongata rongai,mid,Friday,weekday,no,22,9,2017
+acacia,1,1,45,50,5,cash,no,yes,no,no,no,no,no,24/06/2017,no,18:17,evening,small,saika,mid,saturday,weekend,no,24,6,2017
+tuskys,1,1,85,100,15,cash,no,yes,no,no,no,no,no,29/05/2017,no,11:36,morning,chain,cbd,mid,monday,weekday,no,29,5,2017
+tuskys,22,5,3834,4000,166,cash,yes,yes,yes,yes,yes,no,no,18/06/2017,no,10:09,morning,chain,eastlands,mid,Sunday,weekend,no,18,6,2017
+nakumatt,2,2,180,200,20,cash,no,yes,yes,no,no,no,no,5/7/2017,no,19:11,night,chain,cbd,mid,Wednesday,weekday,yes,5,7,2017
+nakumatt,1,1,60,100,40,cash,no,yes,no,no,no,no,no,19/06/2017,no,14:25,afternoon,chain,cbd,mid,monday,weekday,no,19,6,2017
+nakumatt,1,1,135,1000,865,cash,no,yes,no,no,no,no,no,30/05/2017,yes,18:14,evening,chain,junction,mid,Tuesday,weekday,no,30,5,2017
+nakumatt,2,2,95,95,0,cash,no,yes,yes,no,no,no,no,23/05/2017,no,18:25,evening,chain,cbd,mid,Tuesday,weekday,yes,23,5,2017
+ukwala,4,2,293,500,207,cash,yes,no,no,yes,no,no,no,24/05/2017,no,20:00,night,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+ukwala,1,1,58,100,42,cash,no,no,no,yes,no,no,no,24/05/2017,no,08:34,morning,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+karrymart,1,1,90,200,110,cash,no,no,no,yes,no,no,no,23/05/2017,no,07:33,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,3,250,500,250,cash,yes,yes,yes,no,no,no,no,23/05/2017,no,05:23,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,105,500,395,cash,no,yes,no,no,no,no,no,23/05/2017,no,06:57,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,1000,900,cash,yes,no,no,yes,no,no,no,23/05/2017,no,12:39,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,95,100,5,cash,no,no,yes,yes,no,no,no,23/05/2017,no,03:19,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,100,60,cash,no,no,yes,yes,no,no,no,23/05/2017,no,08:25,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,55,100,45,cash,no,yes,yes,yes,no,no,no,23/05/2017,no,08:17,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,179,200,23,cash,yes,yes,no,yes,no,no,no,23/05/2027,no,08:27,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2027
+karrymart,2,1,91,100,9,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,08:21,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,80,200,120,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,08:20,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,50,10,cash,yes,no,no,yes,no,no,no,23/05/2017,no,08:17,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,78,100,22,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,07:52,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,yes,no,no,no,23/05/2017,no,07:51,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,135,150,15,cash,yes,yes,yes,yes,no,no,no,23/05/2017,no,10:55,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,50,10,cash,no,no,yes,yes,no,no,no,23/05/2017,no,08:59,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,37,200,163,cash,yes,no,no,yes,no,no,no,23/05/2017,no,08:40,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,68,200,132,cash,yes,no,no,yes,no,no,no,23/05/2017,no,08:06,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,yes,no,no,yes,no,no,no,23/05/2017,no,07:36,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,70,100,30,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,08:15,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,200,175,cash,no,no,yes,yes,no,no,no,23/05/2017,no,03:28,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,100,50,cash,yes,no,no,yes,no,no,no,23/05/2017,no,09:20,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,200,100,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,07:18,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,100,0,cash,no,yes,yes,yes,no,no,no,23/05/2017,no,06:08,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,3,3,0,cash,yes,no,no,yes,no,no,no,23/05/2017,no,07:39,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,50,0,cash,yes,no,no,yes,no,no,no,23/05/2017,no,07:13,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,65,100,35,cash,no,no,yes,yes,no,no,no,23/05/2017,no,09:13,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,100,70,cash,no,yes,no,yes,no,no,no,23/05/2017,no,07:34,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,40,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,06:10,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,90,200,110,cash,yes,no,no,yes,no,no,no,23/05/2017,no,07:43,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,375,375,0,cash,yes,no,yes,yes,no,no,no,23/05/2017,no,06:07,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,105,200,95,cash,no,yes,yes,yes,no,no,no,23/05/2017,no,06:50,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,49,200,151,cash,yes,no,no,yes,no,no,no,23/05/2017,no,07:27,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,56,100,44,cash,yes,no,no,yes,no,no,no,23/05/2017,no,07:21,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,50,0,cash,no,yes,no,yes,no,no,no,23/05/2017,no,07:23,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,75,500,425,cash,no,no,yes,yes,no,no,no,23/05/2017,no,08:38,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,yes,no,no,no,23/05/2017,no,07:07,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,50,10,cash,no,no,yes,yes,no,no,no,23/05/2017,no,07:17,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,100,50,cash,yes,no,no,yes,no,no,no,23/05/2017,no,07:00,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,no,no,yes,yes,no,no,no,23/05/2017,no,06:46,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,123,200,77,cash,yes,no,no,yes,no,no,no,23/05/2017,no,07:04,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,no,yes,no,yes,no,no,no,23/05/2017,no,07:30,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,126,126,0,cash,yes,no,no,yes,no,no,no,23/05/2017,no,06:05,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,100,0,cash,no,no,yes,yes,no,no,no,23/05/2017,no,06:38,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,50,0,cash,no,no,yes,yes,no,no,no,23/05/2017,no,06:51,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,125,200,75,cash,yes,no,yes,yes,no,no,no,23/05/2017,no,05:36,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,1,320,400,80,cash,yes,yes,yes,yes,no,no,no,23/05/2017,no,05:32,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,1,272,300,22,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,04:52,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,180,500,320,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,05:51,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,55,100,45,cash,yes,no,no,yes,no,no,no,23/05/2017,no,06:38,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,100,200,100,cash,no,yes,no,yes,no,no,no,23/05/2017,no,05:55,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,80,100,20,cash,yes,no,no,yes,no,no,no,23/05/2017,no,06:16,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,100,0,cash,no,no,yes,yes,no,no,no,23/05/2017,no,06:05,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,2,158,200,42,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,06:53,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,160,160,0,cash,no,no,yes,yes,no,no,no,23/05/2017,no,05:44,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,80,100,20,cash,no,no,yes,yes,no,no,no,23/05/2017,no,05:44,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,115,1000,885,cash,no,yes,yes,yes,no,no,no,23/05/2017,no,13:30,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,90,100,10,cash,yes,no,no,yes,no,no,no,23/05/2017,no,06:07,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,yes,no,no,no,23/05/2017,no,06:17,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,500,440,cash,no,yes,no,yes,no,no,no,23/05/2017,no,06:27,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,5,1,231,250,19,cash,yes,yes,yes,yes,no,no,no,23/05/2017,no,06:21,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,306,500,194,cash,yes,yes,yes,yes,no,no,no,23/05/2017,no,06:19,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,200,200,0,cash,yes,yes,yes,yes,no,no,no,23/05/2017,no,06:53,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,100,70,cash,no,yes,no,yes,no,no,no,23/05/2017,no,06:54,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,yes,no,no,no,23/05/2017,no,06:58,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,60,40,cash,no,yes,no,yes,no,no,no,23/05/2017,no,06:33,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,230,100,770,cash,no,no,no,no,yes,no,no,23/05/2017,no,06:19,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,yes,no,no,yes,no,no,no,23/05/2017,no,07:01,morning,small,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,yes,no,no,no,23/05/2017,no,07:10,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,500,420,cash,no,no,yes,yes,no,no,no,23/05/2017,no,06:42,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,110,110,0,cash,no,yes,yes,yes,no,no,no,23/05/2017,no,06:40,morning,small,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,40,0,cash,yes,no,no,yes,no,no,no,23/05/2017,no,07:57,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,159,200,41,cash,yes,no,no,yes,no,no,no,23/05/2017,no,07:17,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,500,430,cash,no,yes,no,yes,no,no,no,23/05/2017,no,07:03,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,5,3,170,200,30,cash,no,yes,no,yes,no,no,no,23/05/2017,no,08:22,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,110,200,90,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,05:22,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,60,0,cash,no,yes,no,yes,no,no,no,23/05/2017,no,14:51,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,135,150,15,cash,no,yes,yes,yes,no,no,no,23/05/2017,no,06:31,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,100,30,cash,yes,no,no,yes,no,no,no,23/05/2017,no,06:56,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,90,100,10,cash,no,yes,no,yes,no,no,no,23/05/2017,no,05:45,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,160,200,40,cash,no,no,no,yes,no,no,no,23/05/2017,no,05:21,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,110,50,cash,no,yes,no,yes,no,no,no,23/05/2017,no,06:59,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,100,70,cash,no,no,yes,yes,no,no,no,23/05/2017,no,10:44,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,139,200,61,cash,yes,no,no,yes,no,no,no,23/05/2017,no,14:21,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,100,50,cash,no,yes,no,yes,no,no,no,23/05/2017,no,15:25,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,30,5,cash,no,no,yes,yes,no,no,no,23/05/2017,no,15:17,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,43,100,57,cash,yes,no,no,yes,no,no,no,23/05/2017,no,09:20,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,200,140,cash,no,no,yes,yes,no,no,no,23/05/2017,no,11:26,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,500,400,cash,yes,no,no,no,no,no,no,23/05/2017,no,15:10,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,50,25,cash,no,no,yes,no,no,no,no,23/05/2107,no,16:41,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2107
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,15:38,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,70,10,cash,no,no,yes,no,no,no,no,23/05/2017,no,13:22,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,5,2,240,1000,760,cash,yes,yes,no,no,yes,no,no,23/05/2017,no,20:36,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,200,140,cash,no,no,yes,no,no,no,no,23/05/2017,no,18:23,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,275,500,225,cash,no,yes,no,no,yes,no,no,23/05/2017,no,13:37,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,265,500,235,cash,yes,yes,no,no,no,no,no,23/05/2017,no,18:28,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,225,400,175,cash,yes,yes,yes,no,no,no,no,23/05/2017,no,18:01,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,110,110,110,cash,no,yes,no,no,yes,no,no,23/05/2017,no,19:22,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,120,1000,880,cash,no,yes,no,no,no,no,no,23/05/2017,no,12:59,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,110,50,cash,no,no,yes,no,yes,no,no,23/05/2017,no,15:00,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,815,1000,175,cash,yes,no,no,no,yes,no,no,23/05/2017,no,13:23,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,70,10,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:27,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,100,50,cash,no,yes,no,no,no,no,no,23/05/2017,no,18:55,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,35,50,15,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:44,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,200,140,cash,no,yes,no,no,yes,no,no,23/05/2017,no,19:34,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,140,150,10,cash,no,yes,yes,no,no,no,no,23/05/2017,no,20:33,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,50,25,cash,no,no,yes,no,no,yes,no,23/05/2017,no,18:02,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,200,150,cash,no,no,yes,no,no,no,no,23/05/2017,no,18:19,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,168,1000,832,cash,no,no,no,yes,no,no,no,23/05/2017,no,15:45,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,120,500,380,cash,no,yes,no,no,yes,no,no,23/05/2017,no,17:47,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,230,240,10,cash,no,no,yes,no,yes,no,no,23/05/2017,no,20:01,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,100,60,cash,no,no,yes,no,no,no,no,23/05/2017,no,17:51,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,115,120,5,cash,no,no,yes,no,no,no,no,23/05/2017,no,20:57,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,160,200,40,cash,yes,yes,yes,no,no,no,no,23/05/2017,no,21:00,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,100,50,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:53,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,3,254,300,46,cash,yes,yes,yes,yes,no,no,no,23/05/2017,no,19:47,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,no,no,yes,no,no,no,no,23/05/2017,no,20:53,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,no,no,yes,no,no,no,no,23/05/2017,no,17:14,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:34,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,170,200,30,cash,yes,no,yes,no,no,no,no,23/05/2017,no,17:42,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,200,140,cash,no,no,yes,no,no,no,no,23/05/2017,no,16:44,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,140,1000,860,cash,yes,yes,yes,no,no,no,no,23/05/2017,no,18:30,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,101,1000,899,cash,yes,no,no,no,no,no,no,23/05/2017,no,14:15,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,no,no,no,yes,no,yes,no,23/05/2017,no,18:50,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,60,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,18:25,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,175,500,325,cash,no,yes,yes,no,no,no,no,23/05/2017,no,21:07,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,130,200,70,cash,yes,no,yes,no,no,no,no,23/05/2017,no,19:53,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,45,50,5,cash,no,no,yes,no,no,no,no,23/05/2017,no,15:12,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,120,500,380,cash,yes,no,no,no,no,no,no,23/05/2017,no,17:03,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,205,205,0,cash,no,yes,yes,no,no,no,no,23/05/2017,no,19:46,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,500,430,cash,no,yes,no,no,no,no,no,23/05/2017,no,19:04,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,130,1000,870,cash,yes,no,yes,no,no,no,no,23/05/2017,no,19:30,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,195,200,5,cash,no,no,yes,no,no,no,no,23/05/2017,no,18:49,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,100,70,cash,no,yes,no,no,no,no,no,23/05/2017,no,18:04,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,18:05,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,185,1000,815,cash,yes,yes,no,no,no,no,no,23/05/2017,no,19:55,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,115,200,85,cash,yes,no,yes,no,no,no,no,23/05/2017,no,20:14,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,120,520,400,cash,no,no,yes,no,no,no,no,23/05/2017,no,16:02,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,193,1000,807,cash,yes,no,yes,no,no,no,no,23/05/2017,no,20:40,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,16:23,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,65,100,35,cash,no,yes,no,no,no,no,no,23/05/2017,no,17:27,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,100,0,cash,yes,no,yes,no,no,no,no,23/05/2017,no,17:40,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,120,500,380,cash,no,yes,no,no,no,no,no,23/05/2017,no,15:02,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,245,500,255,cash,yes,yes,no,no,no,no,no,23/05/2017,no,19:02,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,100,30,cash,no,no,no,yes,no,no,no,23/05/2017,no,18:52,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,100,70,cash,no,yes,no,no,no,no,no,23/05/2017,no,14:02,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,1000,930,cash,no,yes,no,no,no,no,no,23/05/2017,no,17:55,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,115,120,5,cash,no,yes,no,no,no,no,no,23/05/2017,no,15:04,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,1,204,500,296,cash,no,yes,yes,no,no,no,no,23/05/2017,no,15:09,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,220,500,280,cash,no,yes,no,no,no,no,no,23/05/2017,no,16:51,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,50,25,cash,no,no,yes,no,no,no,no,23/05/2017,no,16:32,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,290,1000,710,cash,yes,no,no,no,no,no,no,23/05/2017,no,19:40,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,no,yes,no,no,no,no,no,23/05/2017,no,16:56,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,500,430,cash,yes,no,no,no,no,no,no,23/05/2017,no,17:41,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,100,50,cash,yes,no,no,no,no,no,no,23/05/2017,no,19:48,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,50,25,cash,no,no,yes,no,no,no,no,23/05/2017,no,17:29,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,120,1000,880,cash,no,yes,no,no,no,no,no,23/05/2017,no,12:54,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,40,15,cash,no,no,no,yes,no,no,no,23/05/2017,no,10:23,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,200,120,cash,no,no,yes,no,no,no,no,23/05/2017,no,16:37,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,100,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,16:56,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,70,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,19:31,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,140,500,360,cash,yes,no,yes,no,no,no,no,23/05/2017,no,16:47,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,200,140,cash,yes,no,no,no,no,no,no,23/05/2017,no,15:59,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,15:24,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,105,200,95,cash,no,yes,yes,no,no,no,no,23/05/2017,no,16:07,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,15:15,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,15:15,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,155,200,55,cash,no,yes,no,yes,no,no,no,23/05/2017,no,18:58,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,130,500,370,cash,yes,no,yes,no,no,no,no,23/05/2017,no,19:28,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,55,55,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,14:14,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,99.4,200,100.6,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:37,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,85,100,15,cash,yes,no,no,no,no,no,no,23/05/2017,no,09:13,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,1000,940,cash,no,no,yes,no,no,no,no,23/05/2017,no,14:42,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,115,500,385,cash,yes,no,yes,no,no,no,no,23/05/2017,no,19:32,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,90,100,10,cash,no,no,no,yes,no,no,no,23/05/2017,no,16:25,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,no,yes,no,no,no,no,no,23/05/2017,no,17:11,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,200,14,cash,no,no,yes,no,no,no,no,23/05/2017,no,16:09,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,200,150,cash,yes,no,no,no,no,no,no,23/05/2017,no,17:03,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,85,100,15,cash,yes,no,no,no,no,no,no,23/05/2017,no,17:48,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,215,300,85,cash,yes,no,no,no,no,no,no,23/05/2017,no,15:24,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,15:10,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,1000,100,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,15:41,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+acacia,12,1,2024,2024,0,mpesa,yes,yes,yes,no,yes,no,no,12/8/2017,no,18:25,evening,small,saika,mid,saturday,weekend,no,12,8,2017
+karrymart,1,1,60,200,140,cash,no,no,yes,no,no,no,no,23/05/2017,no,20:52,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+tuskys,1,1,55,55,0,cash,no,no,yes,no,no,no,no,24/05/2017,no,18:53,evening,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+nakumatt,1,1,130,130,0,cash,no,no,yes,no,no,no,no,24/05/2017,no,15:42,evening,chain,junction,mid,Wednesday,weekday,no,24,5,2017
+tuskys,3,1,275,500,225,cash,yes,yes,yes,no,no,no,no,24/05/2017,no,20:31,night,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+karrymart,3,1,222,500,278,cash,yes,yes,yes,no,no,no,no,23/05/2017,no,16:53,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,200,140,cash,no,no,no,no,no,yes,no,24/01/2017,no,10:50,morning,chain,cbd,mid,Tuesday,weekday,no,24,1,2017
+karrymart,1,1,70,70,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:41,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+Eastmatt,4,1,314,400,84,cash,yes,yes,yes,no,no,no,no,24/05/2017,no,16:40,evening,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+karrymart,3,1,110,120,10,cash,yes,yes,yes,no,no,no,no,23/05/0201,no,17:52,evening,chain,cbd,mid,Wednesday,weekday,no,23,5,201
+chandarana,1,1,130,500,370,cash,no,no,no,no,no,yes,no,23/05/2017,no,20:49,night,small,cbd,high,Tuesday,weekday,no,23,5,2017
+chandarana,1,1,55,55,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,17:19,evening,small,cbd,high,Tuesday,weekday,no,23,5,2017
+chandarana,2,2,1540,2000,460,cash,no,no,yes,no,yes,no,no,24/05/2017,no,14:05,afternoon,small,cbd,high,Wednesday,weekday,no,24,5,2017
+tuskys,4,2,869,1000,131,cash,yes,yes,no,no,no,yes,no,23/05/2017,no,11:42,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+ukwala,2,1,75,1000,925,cash,yes,no,no,no,no,no,no,24/05/2017,no,15:21,evening,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+ukwala,2,1,96,200,104,cash,yes,yes,no,no,no,no,no,21/06/2017,no,20:36,night,chain,cbd,mid,Wednesday,weekday,no,21,6,2017
+tuskys,2,1,293,500,207,cash,yes,yes,no,no,no,no,no,22/05/2017,no,14:43,afternoon,chain,cbd,mid,Monday,weekday,no,22,5,2017
+chandarana,1,1,40,50,10,cash,no,no,no,yes,no,no,no,23/05/2017,no,14:12,afternoon,small,cbd,high,Monday,weekday,no,23,5,2017
+acacia,1,1,35,35,0,cash,no,no,no,no,no,yes,no,22/05/2017,no,14:01,afternoon,small,saika,mid,Monday,weekday,no,22,5,2017
+acacia,1,1,90,500,410,cash,yes,no,no,no,no,no,no,22/05/2017,no,19:12,night,small,saika,mid,Monday,weekday,no,22,5,2017
+acacia,1,1,235,250,15,cash,yes,no,no,no,no,no,no,22/05/2017,no,15:23,afternoon,small,saika,mid,Monday,weekday,no,22,5,2017
+acacia,1,1,75,80,5,cash,no,yes,no,no,no,no,no,20/05/2017,no,18:31,evening,small,saika,mid,saturday,weekend,no,20,5,2017
+acacia,1,1,90,100,10,cash,yes,no,no,no,no,no,no,20/05/2017,no,19:31,night,small,saika,mid,saturday,weekend,no,20,5,2017
+acacia,2,1,137,200,63,cash,yes,no,no,no,no,no,no,20/05/2017,no,19:12,night,small,saika,mid,saturday,weekend,no,20,5,2017
+acacia,1,1,175,205,30,cash,yes,no,no,no,no,no,no,21/05/2017,no,08:56,morning,small,saika,mid,Sunday,weekend,no,21,5,2017
+acacia,1,1,55,60,5,cash,no,yes,no,no,no,no,no,22/05/2017,no,13:14,afternoon,small,saika,mid,Monday,weekday,no,22,5,2017
+acacia,1,1,270,300,30,cash,no,no,no,no,yes,no,no,22/05/2017,no,13:21,afternoon,small,saika,mid,Monday,weekday,no,22,5,2017
+acacia,1,1,90,100,10,cash,yes,no,no,no,no,no,no,22/05/2017,no,14:10,afternoon,small,saika,mid,Monday,weekday,no,22,5,2017
+naivas,9,3,907,1000,93,cash,yes,yes,yes,yes,no,yes,no,17/05/2017,no,20:27,night,chain,umoja,mid,Wednesday,weekday,no,17,5,2017
+naivas,1,1,95,100,5,cash,no,no,yes,no,no,no,no,19/05/2017,no,20:10,night,chain,umoja,mid,Friday,weekday,no,19,5,2017
+naivas,7,1,961,1000,39,cash,yes,yes,yes,no,no,no,no,12/5/2017,no,15:46,evening,chain,umoja,mid,Friday,weekday,no,12,5,2017
+naivas,10,3,2903,2903,0,cash,yes,yes,yes,yes,no,yes,no,21/05/2017,no,14:21,afternoon,chain,umoja,mid,Sunday,weekend,no,21,5,2017
+naivas,6,2,736,1000,263,cash,yes,no,yes,yes,no,yes,no,21/05/2017,no,12:07,afternoon,chain,umoja,mid,Sunday,weekend,no,21,5,2017
+naivas,1,1,58,70,12,cash,yes,no,no,no,no,no,no,19/05/2017,no,15:16,evening,chain,umoja,mid,Friday,weekday,no,19,5,2017
+karrymart,3,2,122,200,78,cash,yes,no,no,yes,no,no,no,23/05/2017,no,19:22,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,100,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,20:19,night,chain,cbd,mid,tuesday,weekday,no,23,5,2017
+karrymart,3,1,45,50,5,cash,no,no,no,yes,no,no,no,23/05/2017,no,19:14,night,chain,cbd,mid,tuesday,weekday,no,23,5,2017
+karrymart,2,1,120,120,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:23,night,chain,cbd,mid,tuesday,weekday,no,23,5,2017
+karrymart,2,1,220,220,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,18:55,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,60,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,18:05,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,50,50,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,17:58,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,130,130,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,18:06,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,40,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,18:26,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,50,50,0,cash,no,no,no,yes,no,no,no,23/05/2017,no,19:03,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,100,60,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:25,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,125,200,75,cash,yes,no,no,no,no,no,no,23/05/2017,no,19:42,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,2,515,600,85,cash,no,no,yes,yes,no,no,no,23/05/2017,no,20:37,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,6,3,363,500,137,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,18:45,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,85,500,415,cash,no,yes,no,no,no,no,no,23/05/2017,no,15:13,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,3,225,250,25,cash,no,yes,no,yes,no,yes,no,23/05/2017,no,20:02,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,45,50,5,cash,no,yes,no,no,no,no,no,23/05/2017,no,20:31,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,3,205,500,295,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,19:48,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,60,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,12:17,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,90,100,10,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:52,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,155,1000,845,cash,yes,no,yes,no,no,no,no,23/05/2017,no,20:36,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,45,50,5,cash,no,no,no,yes,no,no,no,23/05/2017,no,19:06,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,40,100,60,cash,no,yes,no,no,no,no,no,23/05/2017,no,20:27,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,100,30,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:55,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:12,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,230,1000,770,cash,yes,no,no,no,no,no,no,23/05/2017,no,18:04,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,50,20,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:34,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,500,440,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:24,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,100,100,0,cash,no,yes,yes,no,no,no,no,23/05/2017,no,20:24,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,100,50,cash,yes,no,no,no,no,no,no,23/05/2017,no,19:00,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,100,70,cash,no,yes,no,no,no,no,no,23/05/2017,no,19:44,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,115,1000,885,cash,no,yes,no,no,no,no,no,23/05/2015,no,20:42,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2015
+karrymart,1,1,80,100,20,cash,yes,no,no,no,no,no,no,23/05/2017,no,18:15,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,5,1,295,300,5,cash,yes,no,no,no,no,no,no,23/05/2017,no,19:23,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,205,205,0,cash,yes,no,no,yes,no,no,no,23/05/2017,no,18:10,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,2,1468,2000,532,cash,no,no,no,yes,no,yes,no,23/05/2017,no,18:00,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,70,10,cash,no,no,yes,no,no,no,no,23/05/2017,no,16:53,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,17:01,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,2,110,210,100,cash,no,yes,no,no,no,yes,no,23/05/2017,no,17:11,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,190,200,10,cash,no,no,no,yes,no,no,no,2305/2017,no,18:08,evening,chain,cbd,mid,Tuesday,weekday,no,2305,2017,
+karrymart,1,1,60,110,50,cash,no,no,yes,no,no,no,no,23/05/2017,no,18:27,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,yes,no,no,no,no,no,no,23/05/2017,no,15:40,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,20:14,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,130,140,10,cash,yes,yes,no,no,no,no,no,23/05/2017,no,07:56,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,70,100,30,cash,no,yes,yes,no,no,no,no,23/05/2017,no,19:57,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,5,3,282,500,218,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,19:48,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,60,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:27,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,12:20,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,10,3,614,1000,386,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,20:04,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,9,3,599.75,100,400.25,cash,yes,yes,yes,no,no,no,no,23/05/2017,no,17:53,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,2,330,400,70,cash,yes,yes,no,no,no,no,no,23/05/2017,no,18:07,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,165,200,35,cash,no,yes,yes,no,no,no,no,23/05/2017,no,17:20,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,110,150,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,17:49,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,80,100,20,cash,yes,no,no,no,no,no,no,23/05/2017,no,18:07,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,185,200,15,cash,yes,no,no,no,no,no,no,23/05/2017,no,18:14,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,50,10,cash,yes,no,no,no,no,no,no,23/05/2017,no,18:31,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,120,200,80,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:44,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,145,1000,855,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:51,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,200,200,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:59,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,60,0,cash,no,no,yes,no,no,no,no,23/05/2017,no,18:27,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,100,60,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:20,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,2,80,200,120,cash,no,no,yes,yes,no,no,no,23/05/2017,no,17:29,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,130,200,70,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:07,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,3,185,200,15,cash,yes,yes,no,yes,no,no,no,23/05/2017,no,19:43,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,6,2,120,500,380,cash,yes,yes,no,no,no,no,no,23/05/2017,no,19:01,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,2,130,500,370,cash,no,yes,no,yes,no,no,no,23/05/2017,no,19:43,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,85,100,15,cash,no,yes,no,no,no,no,no,23/05/2017,no,18:24,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,500,430,cash,yes,no,no,no,no,no,no,23/05/2017,no,21:08,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,18:56,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,50,25,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:27,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,40,200,160,cash,no,yes,no,no,no,no,no,23/05/2017,no,18:55,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,5,5,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:50,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,1000,950,cash,no,no,no,yes,no,no,no,23/05/2017,no,19:21,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,50,50,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,15:05,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,90,30,cash,no,no,yes,no,no,no,no,23/05/2017,no,12:49,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,yes,no,no,no,no,no,23/05/2017,no,06:43,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,15,15,0,cash,no,no,no,yes,no,no,no,23/05/2017,no,09:46,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,130,150,20,cash,yes,no,no,no,no,no,no,23/05/2017,no,21:06,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,100,100,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,19:47,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,2,325,500,175,cash,no,no,yes,yes,no,no,no,23/05/2017,no,19:41,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,50,50,0,cash,no,yes,no,no,no,no,no,23/05/2017,no,20:28,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,100,75,cash,no,no,yes,no,no,no,no,23/05/2017,no,12:15,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,16,1,790,1000,210,cash,no,yes,no,no,no,no,no,23/05/2017,no,18:05,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,3,440,500,60,cash,no,yes,yes,yes,no,no,no,23/05/2017,no,18:32,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,36.4,100,63.6,cash,yes,no,no,no,no,no,no,23/05/2017,no,08:13,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,100,40,cash,no,no,yes,no,no,no,no,23/05/2017,no,18:40,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,35,50,15,cash,no,yes,no,no,no,no,no,23/05/2017,no,17:20,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,70,200,130,cash,yes,no,no,no,no,no,no,23/05/2017,no,19:46,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,200,140,cash,no,yes,no,no,no,no,no,23/05/2017,no,19:08,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,120,200,80,cash,no,yes,no,no,no,no,no,23/05/2017,no,19:59,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,1,58,100,42,cash,no,no,no,no,no,yes,no,23/05/2017,no,07:48,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,3,2,140,200,60,cash,no,yes,yes,no,no,no,no,23/05/2017,no,17:43,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,160,200,40,cash,yes,no,no,no,no,no,no,23/05/2017,no,19:03,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,200,140,cash,no,no,yes,no,no,no,no,23/05/2017,no,18:11,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,130,200,70,cash,yes,no,no,no,no,no,no,23/05/2017,no,20:41,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,25,50,25,cash,no,no,yes,no,no,no,no,23/05/2017,no,20:11,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,1000,940,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:51,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,60,200,140,cash,no,no,yes,no,no,no,no,23/05/2017,no,20:11,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,4,3,320,320,0,cash,yes,no,yes,no,no,yes,no,23/05/2017,no,20:18,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,2,1,120,200,80,cash,no,no,yes,no,no,no,no,23/05/2017,no,19:29,night,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+tuskys,1,1,190,200,10,cash,yes,no,no,no,no,no,no,13/05/2017,no,07:11,morning,chain,cbd,mid,Saturday,weekend,no,13,5,2017
+nakumatt,1,1,50,50,0,voucher,no,no,no,no,no,yes,no,09/06/2017,yes,17:48,evening,chain,karen,high,Friday,weekday,no,9,6,2017
+nakumatt,1,1,100,100,0,voucher,no,no,no,no,no,yes,no,09/06/2017,yes,17:48,evening,chain,karen,high,Friday,weekday,no,9,6,2017
+nakumatt,2,2,725,725,0,mpesa,no,yes,no,no,no,yes,no,21/07/2017,yes,22:01,night,chain,junction,high,Friday,weekday,yes,21,7,2017
+nakumatt,1,1,200,200,0,cash,no,no,yes,no,no,no,no,15/06/2017,yes,12:09,afternoon,chain,junction,high,Thursday,weekday,yes,15,6,2017
+nakumatt,1,1,530,600,70,cash,no,no,no,yes,no,no,no,26/05/2017,yes,11:02,morning,chain,junction,high,Friday,weekday,yes,26,5,2017
+nakumatt,1,1,95,100,5,cash,no,yes,no,no,no,no,no,02/06/2017,yes,14:34,afternoon,chain,junction,high,Friday,weekday,yes,2,6,2017
+zucchini,18,1,2654.71,2655,0,credit card,yes,no,no,no,no,no,no,11/07/2017,yes,19:54,night,chain,junction,high,Tuesday,weekday,no,11,7,2017
+ukwala,1,1,35,112,77,cash,yes,no,no,no,no,no,no,01/06/2017,no,14:17,afternoon,chain,cbd,mid,Thursday,weekday,no,1,6,2017
+tuskys,2,1,180,200,20,cash,no,no,no,yes,no,no,no,15/06/2017,no,18:01,evening,chain,cbd,mid,Thursday,weekday,no,15,6,2017
+karrymart,1,1,35,35,0,cash,no,no,no,yes,no,no,no,01/06/2017,no,01:33,morning,chain,cbd,mid,Thursday,weekday,no,1,6,2017
+tuskys,8,3,965,965,0,credit card,yes,yes,no,yes,no,no,no,15/06/2017,yes,20:11,night,chain,donholm,mid,Thursday,weekday,no,15,6,2017
+tuskys,11,3,3895,3895,0,credit card,yes,no,no,yes,no,yes,no,15/06/2017,yes,20:46,night,chain,donholm,mid,Thursday,weekday,no,15,6,2017
+tuskys,2,1,180,200,20,cash,no,no,no,yes,no,no,no,15/06/2017,yes,19:23,afternoon,chain,donholm,mid,Thursday,weekday,no,15,6,2017
+ukwala,4,2,161,200,39,cash,yes,no,no,yes,no,no,no,19/06/2017,no,08:26,morning,chain,cbd,mid,Monday,weekday,no,19,6,2017
+nakumatt,3,2,410,410,0,mpesa,yes,no,yes,no,no,no,no,23/05/2017,no,16:28,evening,chain,cbd,mid,Tuesday,weekday,yes,23,5,2017
+nakumatt,1,1,105,1000,895,cash,no,no,no,no,no,yes,no,03/08/2017,yes,20:20,night,chain,junction,high,Thursday,weekday,no,3,8,2017
+nakumatt,5,1,2450,2450,0,mpesa,no,no,no,yes,no,no,no,03/08/2017,yes,20:18,night,chain,junction,high,Thursday,weekday,no,3,8,2017
+tuskys,3,2,215,1000,785,cash,no,yes,yes,no,no,no,no,30/06/2017,no,19:00,night,chain,cbd,mid,Friday,weekday,no,30,6,2017
+nakumatt,3,1,300,300,0,mpesa,yes,no,no,no,no,no,no,09/07/2017,yes,14:23,afternoon,chain,junction,high,Sunday,weekend,no,9,7,2017
+nakumatt,1,1,60,100,40,cash,no,no,no,no,no,yes,no,02/07/2017,yes,17:23,evening,chain,junction,high,Sunday,weekend,no,2,7,2017
+tuskys,6,1,858,1000,142,cash,no,no,no,yes,no,no,no,19/06/2017,no,08:10,morning,chain,cbd,mid,Monday,weekday,no,19,6,2017
+nakumatt,1,1,45,50,5,cash,no,no,no,yes,no,no,no,19/06/2017,no,04:57,morning,chain,cbd,mid,Monday,weekday,yes,19,6,2017
+nakumatt,6,2,920,1000,80,cash,no,yes,yes,no,no,no,no,24/06/2017,yes,20:01,night,chain,karen,high,Saturday,weekend,no,24,6,2017
+tuskys,2,1,150,1000,850,cash,no,no,no,yes,no,no,no,13/06/2017,no,20:40,night,chain,cbd,mid,Tuesday,weekday,no,13,6,2017
+tuskys,1,1,34,100,66,cash,no,no,no,no,no,yes,no,18/09/2017,no,15:31,afternoon,chain,kericho town,mid,Monday,weekday,no,18,9,2017
+ukwala,14,3,848,1000,152,cash,no,yes,no,yes,no,yes,no,28/11/2016,no,19:26,night,chain,cbd,mid,Monday,weekday,no,28,11,2016
+nakumatt,1,1,90,1000,910,cash,no,no,yes,no,no,no,no,28/06/2017,no,11:48,morning,chain,cbd,mid,Wednesday,weekday,yes,28,6,2017
+tuskys,2,1,95,200,105,cash,yes,no,no,no,no,no,no,23/06/2017,no,21:58,night,chain,cbd,mid,Friday,weekday,no,23,6,2017
+ukwala,1,1,90,100,10,cash,no,no,no,yes,no,no,no,25/02/2017,no,11:44,morning,chain,cbd,mid,Saturday,weekend,no,25,2,2017
+nakumatt,4,1,526,526,0,mpesa,yes,no,no,no,no,no,no,12/11/2015,yes,17:10,evening,chain,junction,high,Thursday,weekday,no,12,11,2015
+karrymart,1,1,35,40,5,cash,yes,no,no,no,no,no,no,19/06/2017,no,04:30,morning,chain,cbd,mid,Monday,weekday,no,19,6,2017
+tuskys,5,3,331,331,0,mpesa,yes,yes,no,yes,no,no,no,04/06/2017,yes,13:12,afternoon,chain,donholm,mid,Sunday,weekday,no,4,6,2017
+karrymart,2,2,140,200,40,cash,no,yes,yes,no,no,no,no,23/05/2017,no,13:51,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,100,100,0,cash,yes,no,no,no,no,no,no,23/05/2017,no,13:55,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2017
+karrymart,1,1,30,50,20,cash,no,no,no,no,no,yes,no,23/05/2018,no,16:08,evening,chain,cbd,mid,Tuesday,weekday,no,23,5,2018
+karrymart,1,1,50,50,0,cash,yes,no,no,no,no,no,no,23/05/2019,no,12:17,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2019
+karrymart,2,2,80,100,20,cash,no,yes,yes,no,no,no,no,23/05/2020,no,13:26,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2020
+karrymart,1,1,35,100,65,cash,no,yes,no,no,no,no,no,23/05/2021,no,11:04,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2021
+karrymart,2,1,60,60,0,cash,no,yes,no,no,no,no,no,23/05/2022,no,13:33,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2022
+karrymart,1,1,80,1000,920,cash,no,no,no,yes,no,no,no,23/05/2023,no,10:17,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2023
+karrymart,1,1,30,200,170,cash,no,no,yes,no,no,no,no,23/05/2024,no,12:04,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2024
+karrymart,1,1,60,500,440,cash,no,yes,no,no,no,no,no,23/05/2025,no,09:17,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2025
+karrymart,1,1,60,70,10,cash,no,no,yes,no,no,no,no,23/05/2026,no,11:56,morning,chain,cbd,mid,Tuesday,weekday,no,23,5,2026
+karrymart,1,1,60,200,140,cash,no,no,yes,no,no,no,no,23/05/2027,no,12:34,afternoon,chain,cbd,mid,Tuesday,weekday,no,23,5,2027
+nakumatt,2,2,110,110,0,cash,yes,no,yes,no,no,no,no,19/06/2017,no,09:00,morning,chain,cbd,mid,Monday,weekday,no,19,6,2017
+foodplus,2,1,140,500,360,cash,no,no,yes,no,no,no,no,24/05/2017,yes,11:52,morning,chain,adlife,high,Wednesday,weekday,no,24,5,2017
+naivas,3,2,138,200,62,cash,no,yes,yes,no,no,no,no,24/05/2017,no,13:29,afternoon,chain,cbd,mid,Wednesday,weekday,no,24,5,2017
+tuskys,4,3,185,500,15,cash,yes,no,yes,no,no,yes,no,15/06/2017,no,20:24,night,chain,cbd,mid,Tuesday,weekday,no,15,6,2017
+nakumatt,1,1,49,100,51,cash,yes,no,no,no,no,no,no,27/06/2017,yes,18:40,evening,chain,junction,mid,Tuesday,weekday,no,27,6,2017
+nakumatt,2,2,134,150,16,cash,yes,no,no,yes,no,no,no,18/06/2017,yes,10:03,morning,chain,junction,mid,Tuesday,weekday,no,18,6,2017
+nakumatt,2,1,78,78,0,cash,no,no,yes,no,no,no,no,29/06/2017,yes,18:22,evening,chain,cbd,mid,Thursday,weekday,yes,29,6,2017
+nakumatt,1,1,155,200,45,cash,no,no,yes,no,no,no,no,24/06/2017,no,19:18,night,chain,karen,high,Saturday,weekend,no,24,6,2017
+nakumatt,1,1,165,200,35,cash,no,no,yes,no,no,no,no,13/06/2017,no,19:54,night,chain,cbd,mid,Tuesday,weekday,yes,13,6,2017
+acacia,1,1,90,200,110,cash,no,no,yes,no,no,no,no,22/06/2017,no,19:25,night,small,saika,mid,Thursday,weekday,no,22,6,2017
+nakumatt,3,2,325,1000,675,cash,no,yes,yes,no,no,no,no,30/06/2017,no,19:54,night,chain,cbd,mid,Friday,weekday,yes,30,6,2017
+tuskys,2,2,105,105,0,cash,no,yes,yes,no,no,no,no,03/07/2017,no,17:13,morning,chain,adams,mid,Monday,weekday,no,3,7,2017
+uchumi,1,1,70,200,130,cash,no,yes,no,no,no,no,no,23/09/2017,yes,19:58,night,chain,ongata rongai,mid,Saturday,weekend,no,23,9,2017
+tuskys,2,3,1230,1230,0,mpesa,yes,no,no,yes,yes,no,no,15/06/2017,no,19:26,night,chain,cbd,mid,Thursday,weekday,no,15,6,2017
+tuskys,1,1,90,100,10,cash,yes,no,no,no,no,no,no,15/06/2017,yes,20:02,night,chain,greenspan,mid,Thursday,weekday,no,15,6,2017
+tuskys,4,3,1810,2000,190,cash,no,yes,no,yes,yes,no,no,15/06/2017,yes,11:28,morning,chain,greenspan,mid,Thursday,weekday,no,15,6,2017
+nakumatt,2,3,516,516,0,card,yes,no,yes,no,yes,no,no,17/07/2017,yes,21:00,night,chain,junction,mid,Monday,weekday,no,17,7,2017
+tuskys,2,1,290,500,210,cash,yes,no,no,no,no,no,no,30/06/2017,no,21:09,night,chain,cbd,mid,Sunday,weekend,no,30,6,2017
+tuskys,5,2,596,1000,404,cash,yes,no,no,yes,no,no,no,08/05/2017,yes,11:00,morning,chain,greenspan,mid,Monday,weekday,no,8,5,2017
+Eastmatt,2,2,120,2000,1880,cash,yes,yes,no,no,no,no,no,23/06/2017,no,16:51,evening,chain,cbd,mid,Friday,weekday,no,23,6,2017
